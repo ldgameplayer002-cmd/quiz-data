@@ -1,0 +1,25 @@
+{
+  "quizId": 101,
+  "title": "Toán Lớp 1 - Phép Cộng Cơ Bản",
+  "description": "Bài tập ôn luyện phép cộng trong phạm vi 10.",
+  "questions": [
+    {
+      "content": "1 + 1 bằng mấy?",
+      "optionA": "1",
+      "optionB": "2",
+      "optionC": "3",
+      "optionD": "4",
+      "correctAnswer": "B",
+      "explanation": "Một thêm một là hai."
+    },
+    {
+      "content": "2 + 3 bằng mấy?",
+      "optionA": "4",
+      "optionB": "5",
+      "optionC": "6",
+      "optionD": "7",
+      "correctAnswer": "B",
+      "explanation": "Đếm tiếp từ 2 thêm 3 ngón tay sẽ ra 5."
+    }
+  ]
+}
