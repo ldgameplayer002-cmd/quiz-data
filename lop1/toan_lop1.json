@@ -27,7 +27,7 @@
     },
     {
       "type": "MATCHSTICK_PUZZLE",
-      "content": "Nhấc que diêm ở giữa (Center) chuyển xuống góc dưới bên trái (BottomLeft) để biến số 9 thành số 0.",
+      "content": "Nhấc que diêm để biến số 9 thành số 0.",
       "correctAnswer": "0",
       "matchsticks": [
         {"id": 1, "digitIndex": 0, "segmentIndex": 0},
@@ -62,7 +62,7 @@
     },
     {
       "type": "MATCHSTICK_PUZZLE",
-      "content": "Chuyển que diêm ở góc dưới bên trái (BottomLeft) sang góc trên bên phải (TopRight) để biến số 6 thành số 9.",
+      "content": "Chuyển que diêm để biến số 6 thành số 9.",
       "correctAnswer": "9",
       "matchsticks": [
         {"id": 1, "digitIndex": 0, "segmentIndex": 0},
