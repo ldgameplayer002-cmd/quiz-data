@@ -1,0 +1,105 @@
+{
+  "grade": 1,
+  "words": [
+    {
+      "word": "Apple",
+      "meaning": "Quả táo",
+      "emoji": "🍎"
+    },
+    {
+      "word": "Banana",
+      "meaning": "Quả chuối",
+      "emoji": "🍌"
+    },
+    {
+      "word": "Cat",
+      "meaning": "Con mèo",
+      "emoji": "🐱"
+    },
+    {
+      "word": "Dog",
+      "meaning": "Con chó",
+      "emoji": "🐶"
+    },
+    {
+      "word": "Elephant",
+      "meaning": "Con voi",
+      "emoji": "🐘"
+    },
+    {
+      "word": "Fish",
+      "meaning": "Con cá",
+      "emoji": "🐟"
+    },
+    {
+      "word": "Grape",
+      "meaning": "Quả nho",
+      "emoji": "🍇"
+    },
+    {
+      "word": "House",
+      "meaning": "Ngôi nhà",
+      "emoji": "🏠"
+    },
+    {
+      "word": "Ice cream",
+      "meaning": "Kem",
+      "emoji": "🍦"
+    },
+    {
+      "word": "Juice",
+      "meaning": "Nước ép",
+      "emoji": "🧃"
+    },
+    {
+      "word": "Kite",
+      "meaning": "Cái diều",
+      "emoji": "🪁"
+    },
+    {
+      "word": "Lion",
+      "meaning": "Sư tử",
+      "emoji": "🦁"
+    },
+    {
+      "word": "Monkey",
+      "meaning": "Con khỉ",
+      "emoji": "🐒"
+    },
+    {
+      "word": "Nest",
+      "meaning": "Cái tổ",
+      "emoji": "🪹"
+    },
+    {
+      "word": "Orange",
+      "meaning": "Quả cam",
+      "emoji": "🍊"
+    },
+    {
+      "word": "Pig",
+      "meaning": "Con lợn",
+      "emoji": "🐷"
+    },
+    {
+      "word": "Queen",
+      "meaning": "Nữ hoàng",
+      "emoji": "👸"
+    },
+    {
+      "word": "Rabbit",
+      "meaning": "Con thỏ",
+      "emoji": "🐰"
+    },
+    {
+      "word": "Sun",
+      "meaning": "Mặt trời",
+      "emoji": "☀️"
+    },
+    {
+      "word": "Tree",
+      "meaning": "Cái cây",
+      "emoji": "🌳"
+    }
+  ]
+}
