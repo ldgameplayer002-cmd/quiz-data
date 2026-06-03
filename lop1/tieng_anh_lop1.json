@@ -7,151 +7,391 @@
       "question": "Apple",
       "options": ["🍎", "🍌", "🍉", "🍊"],
       "correctAnswer": "🍎"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Apple",
+      "optionA": "🍎",
+      "optionB": "🍌",
+      "optionC": "🍉",
+      "optionD": "🍊",
+      "correctAnswer": "A"
     },
     {
       "question": "Banana",
       "options": ["🍇", "🍌", "🍓", "🍉"],
       "correctAnswer": "🍌"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Banana",
+      "optionA": "🍇",
+      "optionB": "🍌",
+      "optionC": "🍓",
+      "optionD": "🍉",
+      "correctAnswer": "B"
     },
     {
       "question": "Cat",
       "options": ["🐶", "🦁", "🐱", "🐷"],
       "correctAnswer": "🐱"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Cat",
+      "optionA": "🐶",
+      "optionB": "🦁",
+      "optionC": "🐱",
+      "optionD": "🐷",
+      "correctAnswer": "C"
     },
     {
       "question": "Dog",
       "options": ["🐶", "🐰", "🐒", "🐘"],
       "correctAnswer": "🐶"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Dog",
+      "optionA": "🐶",
+      "optionB": "🐰",
+      "optionC": "🐒",
+      "optionD": "🐘",
+      "correctAnswer": "A"
     },
     {
       "question": "Elephant",
       "options": ["🦁", "🦓", "🐘", "🦒"],
       "correctAnswer": "🐘"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Elephant",
+      "optionA": "🦁",
+      "optionB": "🦓",
+      "optionC": "🦒",
+      "optionD": "🐘",
+      "correctAnswer": "D"
     },
     {
       "question": "Fish",
       "options": ["🐟", "🐬", "🦀", "🦞"],
       "correctAnswer": "🐟"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Fish",
+      "optionA": "🦀",
+      "optionB": "🐟",
+      "optionC": "🐬",
+      "optionD": "🦞",
+      "correctAnswer": "B"
     },
     {
       "question": "Grape",
       "options": ["🍓", "🍎", "🍉", "🍇"],
       "correctAnswer": "🍇"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Grape",
+      "optionA": "🍓",
+      "optionB": "🍎",
+      "optionC": "🍉",
+      "optionD": "🍇",
+      "correctAnswer": "D"
     },
     {
       "question": "House",
       "options": ["🏠", "🏫", "🏰", "🏕️"],
       "correctAnswer": "🏠"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "House",
+      "optionA": "🏠",
+      "optionB": "🏫",
+      "optionC": "🏰",
+      "optionD": "🏕️",
+      "correctAnswer": "A"
     },
     {
       "question": "Ice cream",
       "options": ["🍰", "🍩", "🍦", "🍫"],
       "correctAnswer": "🍦"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Ice cream",
+      "optionA": "🍰",
+      "optionB": "🍩",
+      "optionC": "🍦",
+      "optionD": "🍫",
+      "correctAnswer": "C"
     },
     {
       "question": "Juice",
       "options": ["☕", "🧃", "🥛", "🍷"],
       "correctAnswer": "🧃"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Juice",
+      "optionA": "☕",
+      "optionB": "🥛",
+      "optionC": "🍷",
+      "optionD": "🧃",
+      "correctAnswer": "D"
     },
     {
       "question": "Kite",
       "options": ["🪁", "🎈", "⚽", "🧸"],
       "correctAnswer": "🪁"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Kite",
+      "optionA": "🎈",
+      "optionB": "🪁",
+      "optionC": "⚽",
+      "optionD": "🧸",
+      "correctAnswer": "B"
     },
     {
       "question": "Lion",
       "options": ["🐱", "🐯", "🦁", "🐻"],
       "correctAnswer": "🦁"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Lion",
+      "optionA": "🐱",
+      "optionB": "🐯",
+      "optionC": "🦁",
+      "optionD": "🐻",
+      "correctAnswer": "C"
     },
     {
       "question": "Monkey",
       "options": ["🐒", "🦍", "🦧", "🐶"],
       "correctAnswer": "🐒"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Monkey",
+      "optionA": "🐒",
+      "optionB": "🦍",
+      "optionC": "🦧",
+      "optionD": "🐶",
+      "correctAnswer": "A"
     },
     {
       "question": "Orange",
       "options": ["🍋", "🍊", "🍑", "🥭"],
       "correctAnswer": "🍊"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Orange",
+      "optionA": "🍋",
+      "optionB": "🍑",
+      "optionC": "🍊",
+      "optionD": "🥭",
+      "correctAnswer": "C"
     },
     {
       "question": "Pig",
       "options": ["🐮", "🐷", "🐰", "🦊"],
       "correctAnswer": "🐷"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Pig",
+      "optionA": "🐮",
+      "optionB": "🐷",
+      "optionC": "🐰",
+      "optionD": "🦊",
+      "correctAnswer": "B"
     },
     {
       "question": "Rabbit",
       "options": ["🐭", "🐹", "🐰", "🐿️"],
       "correctAnswer": "🐰"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Rabbit",
+      "optionA": "🐭",
+      "optionB": "🐹",
+      "optionC": "🐿️",
+      "optionD": "🐰",
+      "correctAnswer": "D"
     },
     {
       "question": "Sun",
       "options": ["🌙", "⭐", "☁️", "☀️"],
       "correctAnswer": "☀️"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Sun",
+      "optionA": "☀️",
+      "optionB": "🌙",
+      "optionC": "⭐",
+      "optionD": "☁️",
+      "correctAnswer": "A"
     },
     {
       "question": "Tree",
       "options": ["🌳", "🌲", "🌴", "🌵"],
       "correctAnswer": "🌳"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Tree",
+      "optionA": "🌲",
+      "optionB": "🌴",
+      "optionC": "🌳",
+      "optionD": "🌵",
+      "correctAnswer": "C"
     },
     {
       "question": "Car",
       "options": ["🚗", "🚕", "🚙", "🚌"],
       "correctAnswer": "🚗"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Car",
+      "optionA": "🚕",
+      "optionB": "🚗",
+      "optionC": "🚙",
+      "optionD": "🚌",
+      "correctAnswer": "B"
     },
     {
       "question": "Bird",
       "options": ["🦅", "🦆", "🐦", "🦉"],
       "correctAnswer": "🐦"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Bird",
+      "optionA": "🦅",
+      "optionB": "🦆",
+      "optionC": "🐦",
+      "optionD": "🦉",
+      "correctAnswer": "C"
     },
     {
       "question": "Book",
       "options": ["📖", "📚", "📓", "📰"],
       "correctAnswer": "📚"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Book",
+      "optionA": "📖",
+      "optionB": "📓",
+      "optionC": "📰",
+      "optionD": "📚",
+      "correctAnswer": "D"
     },
     {
       "question": "Pen",
       "options": ["✏️", "🖊️", "🖍️", "🖋️"],
       "correctAnswer": "🖊️"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Pen",
+      "optionA": "🖊️",
+      "optionB": "✏️",
+      "optionC": "🖍️",
+      "optionD": "🖋️",
+      "correctAnswer": "A"
     },
     {
       "question": "Watermelon",
       "options": ["🍉", "🍈", "🥥", "🥝"],
       "correctAnswer": "🍉"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Watermelon",
+      "optionA": "🍈",
+      "optionB": "🍉",
+      "optionC": "🥥",
+      "optionD": "🥝",
+      "correctAnswer": "B"
     },
     {
       "question": "Umbrella",
       "options": ["☂️", "🌂", "☔", "🎒"],
       "correctAnswer": "☂️"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Umbrella",
+      "optionA": "🌂",
+      "optionB": "☔",
+      "optionC": "☂️",
+      "optionD": "🎒",
+      "correctAnswer": "C"
     },
     {
       "question": "Star",
       "options": ["☀️", "🌙", "⭐", "🌈"],
       "correctAnswer": "⭐"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Star",
+      "optionA": "🌙",
+      "optionB": "☁️",
+      "optionC": "🌈",
+      "optionD": "⭐",
+      "correctAnswer": "D"
     },
     {
       "question": "Flower",
       "options": ["🌹", "🌺", "🌻", "🌷"],
       "correctAnswer": "🌻"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Flower",
+      "optionA": "🌻",
+      "optionB": "🌹",
+      "optionC": "🌺",
+      "optionD": "🌷",
+      "correctAnswer": "A"
     },
     {
       "question": "Moon",
       "options": ["☀️", "🌙", "⭐", "☁️"],
       "correctAnswer": "🌙"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Moon",
+      "optionA": "☀️",
+      "optionB": "🌙",
+      "optionC": "⭐",
+      "optionD": "☁️",
+      "correctAnswer": "B"
     },
     {
       "question": "Fire",
       "options": ["🔥", "💧", "⚡", "❄️"],
       "correctAnswer": "🔥"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Fire",
+      "optionA": "💧",
+      "optionB": "⚡",
+      "optionC": "🔥",
+      "optionD": "❄️",
+      "correctAnswer": "C"
     },
     {
       "question": "Heart",
       "options": ["💔", "❤️", "💕", "💖"],
       "correctAnswer": "❤️"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Heart",
+      "optionA": "💔",
+      "optionB": "💕",
+      "optionC": "💖",
+      "optionD": "❤️",
+      "correctAnswer": "D"
     },
     {
       "question": "Clock",
       "options": ["⌚", "⏰", "⏱️", "🕰️"],
       "correctAnswer": "⏰"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Clock",
+      "optionA": "⏰",
+      "optionB": "⌚",
+      "optionC": "⏱️",
+      "optionD": "🕰️",
+      "correctAnswer": "A"
     }
   ]
 }
