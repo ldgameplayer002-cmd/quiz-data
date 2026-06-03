@@ -1,0 +1,30 @@
+{
+  "id": 2,
+  "title": "Đề Tiếng Anh Lớp 1",
+  "questions": [
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Listen and choose the correct picture:",
+      "audioText": "Apple",
+      "audioLang": "en-US",
+      "optionA": "🍌",
+      "optionB": "🍎",
+      "optionC": "🍊",
+      "optionD": "🍇",
+      "correctAnswer": "🍎",
+      "explanation": "Apple là quả Táo"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "What animal is this?",
+      "audioText": "Elephant",
+      "audioLang": "en-US",
+      "optionA": "🐶",
+      "optionB": "🐅",
+      "optionC": "🐘",
+      "optionD": "🦒",
+      "correctAnswer": "🐘",
+      "explanation": "Elephant là con Voi"
+    }
+  ]
+}
