@@ -1,25 +1,69 @@
 {
   "quizId": 1,
-  "title": "Toán Lớp 1",
-  "description": "Đề thi tổng hợp",
+  "title": "Bộ đề Tổng hợp Lớp 1",
+  "description": "20 câu hỏi rèn luyện tư duy cho bé",
   "questions": [
     {
       "type": "MULTIPLE_CHOICE",
-      "content": "Bên trái có 🐦, bên phải có 🐦🐦. Chọn dấu điền vào giữa?",
-      "optionA": ">",
-      "optionB": "<",
-      "optionC": "=",
+      "content": "Bên trái có 🐦🐦, bên phải có 🐦🐦🐦. Điền dấu?",
+      "optionA": ">", "optionB": "<", "optionC": "=", "optionD": "+",
       "correctAnswer": "B"
     },
     {
       "type": "INPUT_NUMBER",
-      "content": "🍎🍎 + 🍎 = Mấy quả táo?",
+      "content": "🍎🍎 + 🍎 = ?",
       "correctAnswer": "3"
     },
     {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Số nào lớn nhất trong các số: 5, 2, 9, 7?",
+      "optionA": "5", "optionB": "2", "optionC": "9", "optionD": "7",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "10 - 4 = ?",
+      "correctAnswer": "6"
+    },
+    {
       "type": "MATCHSTICK_PUZZLE",
-      "content": "Nhấc 1 que diêm ở giữa màn hình để biến số 6 thành số 0.",
+      "content": "Nhấc que diêm ở giữa (Center) chuyển xuống góc dưới bên trái (BottomLeft) để biến số 9 thành số 0.",
       "correctAnswer": "0",
+      "matchsticks": [
+        {"id": 1, "digitIndex": 0, "segmentIndex": 0},
+        {"id": 2, "digitIndex": 0, "segmentIndex": 1},
+        {"id": 3, "digitIndex": 0, "segmentIndex": 2},
+        {"id": 4, "digitIndex": 0, "segmentIndex": 3},
+        {"id": 5, "digitIndex": 0, "segmentIndex": 5},
+        {"id": 6, "digitIndex": 0, "segmentIndex": 6}
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Hình nào có 3 cạnh?",
+      "optionA": "Hình vuông", "optionB": "Hình tròn", "optionC": "Hình tam giác", "optionD": "Hình chữ nhật",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "🐈🐈🐈 - 🐈 = Mấy con mèo?",
+      "correctAnswer": "2"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Mẹ có 5 cái kẹo, cho bé 2 cái. Mẹ còn mấy cái?",
+      "optionA": "2", "optionB": "3", "optionC": "4", "optionD": "5",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Điền số tiếp theo: 2, 4, 6, ?",
+      "correctAnswer": "8"
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Chuyển que diêm ở góc dưới bên trái (BottomLeft) sang góc trên bên phải (TopRight) để biến số 6 thành số 9.",
+      "correctAnswer": "9",
       "matchsticks": [
         {"id": 1, "digitIndex": 0, "segmentIndex": 0},
         {"id": 2, "digitIndex": 0, "segmentIndex": 2},
@@ -28,6 +72,61 @@
         {"id": 5, "digitIndex": 0, "segmentIndex": 5},
         {"id": 6, "digitIndex": 0, "segmentIndex": 6}
       ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Con vật nào kêu Gâu Gâu?",
+      "optionA": "Con mèo", "optionB": "Con chó", "optionC": "Con bò", "optionD": "Con gà",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Một bàn tay có mấy ngón?",
+      "correctAnswer": "5"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Mặt trời mọc ở hướng nào?",
+      "optionA": "Đông", "optionB": "Tây", "optionC": "Nam", "optionD": "Bắc",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "⚽⚽⚽⚽ + ⚽⚽ = ?",
+      "correctAnswer": "6"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Ký hiệu nào là màu đỏ?",
+      "optionA": "🔴", "optionB": "🔵", "optionC": "🟢", "optionD": "🟡",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "7 + 2 = ?",
+      "correctAnswer": "9"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Bảng chữ cái bắt đầu bằng chữ gì?",
+      "optionA": "B", "optionB": "C", "optionC": "A", "optionD": "D",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Có 4 con chim trên cành, 1 con bay đi. Còn lại mấy con?",
+      "correctAnswer": "3"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Trái cam có hình gì?",
+      "optionA": "Hình vuông", "optionB": "Hình tròn", "optionC": "Hình tam giác", "optionD": "Hình ngôi sao",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "1 + 1 = ?",
+      "correctAnswer": "2"
     }
   ]
 }
