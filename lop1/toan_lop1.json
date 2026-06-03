@@ -1,25 +1,33 @@
 {
-  "quizId": 101,
-  "title": "Toán Lớp 1 - Phép Cộng Cơ Bản",
-  "description": "Bài tập ôn luyện phép cộng trong phạm vi 10.",
+  "quizId": 1,
+  "title": "Toán Lớp 1",
+  "description": "Đề thi tổng hợp",
   "questions": [
     {
-      "content": "1 + 1 bằng mấy?",
-      "optionA": "1",
-      "optionB": "2",
-      "optionC": "3",
-      "optionD": "4",
-      "correctAnswer": "B",
-      "explanation": "Một thêm một là hai."
+      "type": "MULTIPLE_CHOICE",
+      "content": "Bên trái có 🐦, bên phải có 🐦🐦. Chọn dấu điền vào giữa?",
+      "optionA": ">",
+      "optionB": "<",
+      "optionC": "=",
+      "correctAnswer": "B"
     },
     {
-      "content": "2 + 3 bằng mấy?",
-      "optionA": "4",
-      "optionB": "5",
-      "optionC": "6",
-      "optionD": "7",
-      "correctAnswer": "B",
-      "explanation": "Đếm tiếp từ 2 thêm 3 ngón tay sẽ ra 5."
+      "type": "INPUT_NUMBER",
+      "content": "🍎🍎 + 🍎 = Mấy quả táo?",
+      "correctAnswer": "3"
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Nhấc 1 que diêm ở giữa màn hình để biến số 6 thành số 0.",
+      "correctAnswer": "0",
+      "matchsticks": [
+        {"id": 1, "digitIndex": 0, "segmentIndex": 0},
+        {"id": 2, "digitIndex": 0, "segmentIndex": 2},
+        {"id": 3, "digitIndex": 0, "segmentIndex": 3},
+        {"id": 4, "digitIndex": 0, "segmentIndex": 4},
+        {"id": 5, "digitIndex": 0, "segmentIndex": 5},
+        {"id": 6, "digitIndex": 0, "segmentIndex": 6}
+      ]
     }
   ]
 }
