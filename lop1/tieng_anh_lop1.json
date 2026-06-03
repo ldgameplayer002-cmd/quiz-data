@@ -1,0 +1,157 @@
+{
+  "quizId": 2,
+  "title": "Đề thi Tiếng Anh Lớp 1",
+  "description": "Bài tập trắc nghiệm Tiếng Anh có phát âm. Nghe kỹ và chọn hình ảnh chính xác!",
+  "questions": [
+    {
+      "question": "Apple",
+      "options": ["🍎", "🍌", "🍉", "🍊"],
+      "correctAnswer": "🍎"
+    },
+    {
+      "question": "Banana",
+      "options": ["🍇", "🍌", "🍓", "🍉"],
+      "correctAnswer": "🍌"
+    },
+    {
+      "question": "Cat",
+      "options": ["🐶", "🦁", "🐱", "🐷"],
+      "correctAnswer": "🐱"
+    },
+    {
+      "question": "Dog",
+      "options": ["🐶", "🐰", "🐒", "🐘"],
+      "correctAnswer": "🐶"
+    },
+    {
+      "question": "Elephant",
+      "options": ["🦁", "🦓", "🐘", "🦒"],
+      "correctAnswer": "🐘"
+    },
+    {
+      "question": "Fish",
+      "options": ["🐟", "🐬", "🦀", "🦞"],
+      "correctAnswer": "🐟"
+    },
+    {
+      "question": "Grape",
+      "options": ["🍓", "🍎", "🍉", "🍇"],
+      "correctAnswer": "🍇"
+    },
+    {
+      "question": "House",
+      "options": ["🏠", "🏫", "🏰", "🏕️"],
+      "correctAnswer": "🏠"
+    },
+    {
+      "question": "Ice cream",
+      "options": ["🍰", "🍩", "🍦", "🍫"],
+      "correctAnswer": "🍦"
+    },
+    {
+      "question": "Juice",
+      "options": ["☕", "🧃", "🥛", "🍷"],
+      "correctAnswer": "🧃"
+    },
+    {
+      "question": "Kite",
+      "options": ["🪁", "🎈", "⚽", "🧸"],
+      "correctAnswer": "🪁"
+    },
+    {
+      "question": "Lion",
+      "options": ["🐱", "🐯", "🦁", "🐻"],
+      "correctAnswer": "🦁"
+    },
+    {
+      "question": "Monkey",
+      "options": ["🐒", "🦍", "🦧", "🐶"],
+      "correctAnswer": "🐒"
+    },
+    {
+      "question": "Orange",
+      "options": ["🍋", "🍊", "🍑", "🥭"],
+      "correctAnswer": "🍊"
+    },
+    {
+      "question": "Pig",
+      "options": ["🐮", "🐷", "🐰", "🦊"],
+      "correctAnswer": "🐷"
+    },
+    {
+      "question": "Rabbit",
+      "options": ["🐭", "🐹", "🐰", "🐿️"],
+      "correctAnswer": "🐰"
+    },
+    {
+      "question": "Sun",
+      "options": ["🌙", "⭐", "☁️", "☀️"],
+      "correctAnswer": "☀️"
+    },
+    {
+      "question": "Tree",
+      "options": ["🌳", "🌲", "🌴", "🌵"],
+      "correctAnswer": "🌳"
+    },
+    {
+      "question": "Car",
+      "options": ["🚗", "🚕", "🚙", "🚌"],
+      "correctAnswer": "🚗"
+    },
+    {
+      "question": "Bird",
+      "options": ["🦅", "🦆", "🐦", "🦉"],
+      "correctAnswer": "🐦"
+    },
+    {
+      "question": "Book",
+      "options": ["📖", "📚", "📓", "📰"],
+      "correctAnswer": "📚"
+    },
+    {
+      "question": "Pen",
+      "options": ["✏️", "🖊️", "🖍️", "🖋️"],
+      "correctAnswer": "🖊️"
+    },
+    {
+      "question": "Watermelon",
+      "options": ["🍉", "🍈", "🥥", "🥝"],
+      "correctAnswer": "🍉"
+    },
+    {
+      "question": "Umbrella",
+      "options": ["☂️", "🌂", "☔", "🎒"],
+      "correctAnswer": "☂️"
+    },
+    {
+      "question": "Star",
+      "options": ["☀️", "🌙", "⭐", "🌈"],
+      "correctAnswer": "⭐"
+    },
+    {
+      "question": "Flower",
+      "options": ["🌹", "🌺", "🌻", "🌷"],
+      "correctAnswer": "🌻"
+    },
+    {
+      "question": "Moon",
+      "options": ["☀️", "🌙", "⭐", "☁️"],
+      "correctAnswer": "🌙"
+    },
+    {
+      "question": "Fire",
+      "options": ["🔥", "💧", "⚡", "❄️"],
+      "correctAnswer": "🔥"
+    },
+    {
+      "question": "Heart",
+      "options": ["💔", "❤️", "💕", "💖"],
+      "correctAnswer": "❤️"
+    },
+    {
+      "question": "Clock",
+      "options": ["⌚", "⏰", "⏱️", "🕰️"],
+      "correctAnswer": "⏰"
+    }
+  ]
+}
