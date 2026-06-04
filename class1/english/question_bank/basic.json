@@ -1,0 +1,36 @@
+{
+  "title": "Tiếng Anh Cơ Bản",
+  "description": "Trắc nghiệm từ vựng bằng hình ảnh",
+  "questions": [
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Apple",
+      "optionA": "🍎",
+      "optionB": "🍌",
+      "optionC": "🍉",
+      "optionD": "🍊",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Banana",
+      "optionA": "🍇",
+      "optionB": "🍌",
+      "optionC": "🍓",
+      "optionD": "🍉",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn hình đúng:",
+      "audioText": "Cat",
+      "optionA": "🐶",
+      "optionB": "🐱",
+      "optionC": "🐭",
+      "optionD": "🐰",
+      "correctAnswer": "B"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Tiếng Việt Cơ Bản",
+  "description": "Câu hỏi Tiếng Việt lớp 1",
+  "questions": [
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chữ nào bắt đầu bằng âm b?",
+      "optionA": "Bà",
+      "optionB": "Cá",
+      "optionC": "Gà",
+      "optionD": "Nhà",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền vào chỗ trống: Mèo con đi...",
+      "optionA": "học",
+      "optionB": "ngủ",
+      "optionC": "câu cá",
+      "optionD": "chơi",
+      "correctAnswer": "A"
+    }
+  ]
+}

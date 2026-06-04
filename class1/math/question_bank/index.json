@@ -1,0 +1,17 @@
+[
+  {
+    "id": "basic",
+    "name": "Toán Cơ Bản",
+    "file": "basic.json"
+  },
+  {
+    "id": "puzzle",
+    "name": "Toán Que Diêm",
+    "file": "puzzle.json"
+  },
+  {
+    "id": "advanced",
+    "name": "Toán Nâng Cao",
+    "file": "advanced.json"
+  }
+]

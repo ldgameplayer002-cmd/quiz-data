@@ -1,0 +1,11 @@
+{
+  "grade": 1,
+  "words": [
+    {
+      "word": "Apple",
+      "meaning": "Quả táo",
+      "imageUrl": "https://example.com/apple.jpg",
+      "audioUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Toán Nâng Cao",
+  "description": "Câu hỏi khó",
+  "questions": [
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Tìm x biết x + 5 = 10",
+      "correctAnswer": "5"
+    }
+  ]
+}

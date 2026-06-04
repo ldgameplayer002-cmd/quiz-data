@@ -1,0 +1,14 @@
+{
+  "title": "Toán Que Diêm",
+  "description": "Xếp que diêm",
+  "questions": [
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm để được số lớn nhất",
+      "optionA": "391",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "991"
+    }
+  ]
+}

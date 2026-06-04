@@ -1,0 +1,15 @@
+{
+  "title": "Toán Cơ Bản",
+  "description": "Các phép tính đơn giản",
+  "questions": [
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "1 + 1 = ?",
+      "optionA": "1",
+      "optionB": "2",
+      "optionC": "3",
+      "optionD": "4",
+      "correctAnswer": "B"
+    }
+  ]
+}
