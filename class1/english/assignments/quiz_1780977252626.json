@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "description": "",
+  "questions": [
+    {
+      "type": "VOCABULARY_EMOJI",
+      "voice": "en-US-Jenny",
+      "content": "🦅🐹🐰🐇",
+      "correctAnswer": "🦅"
+    }
+  ]
+}
