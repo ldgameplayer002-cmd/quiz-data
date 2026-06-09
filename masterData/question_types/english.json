@@ -1,0 +1,93 @@
+{
+  "AUDIO_CHOICE": {
+    "name": "Nghe và Chọn đáp án",
+    "description": "App phát âm Tiếng Anh khi ấn loa",
+    "fields": {
+      "content": {
+        "type": "string",
+        "label": "Câu hỏi"
+      },
+      "audioText": {
+        "type": "string",
+        "label": "Văn bản phát âm"
+      },
+      "audioLang": {
+        "type": "string",
+        "label": "Mã ngôn ngữ (en/vi)"
+      },
+      "optionA": {
+        "type": "string",
+        "label": "Đáp án A"
+      },
+      "optionB": {
+        "type": "string",
+        "label": "Đáp án B"
+      },
+      "optionC": {
+        "type": "string",
+        "label": "Đáp án C"
+      },
+      "optionD": {
+        "type": "string",
+        "label": "Đáp án D"
+      },
+      "correctAnswer": {
+        "type": "string",
+        "label": "Đáp án đúng (A/B/C/D)"
+      }
+    },
+    "template": {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Apple",
+      "audioLang": "en",
+      "optionA": "Quả táo",
+      "optionB": "Quả chuối",
+      "optionC": "Quả cam",
+      "optionD": "Con mèo",
+      "correctAnswer": "A"
+    }
+  },
+  "VOCABULARY_EMOJI": {
+    "name": "Học từ vựng qua ảnh (Emoji)",
+    "description": "Câu hỏi dạng kéo thả / chọn Emoji cho từ vựng tiếng Anh",
+    "fields": {
+      "voice": {
+        "type": "select",
+        "label": "Giọng đọc AI",
+        "options": [
+          {
+            "value": "en-US-Jenny",
+            "label": "Tiếng Anh Mỹ (Nữ)"
+          },
+          {
+            "value": "en-US-Guy",
+            "label": "Tiếng Anh Mỹ (Nam)"
+          },
+          {
+            "value": "en-GB-Sonia",
+            "label": "Tiếng Anh Anh (Nữ)"
+          },
+          {
+            "value": "en-GB-Ryan",
+            "label": "Tiếng Anh Anh (Nam)"
+          }
+        ]
+      },
+      "content": {
+        "type": "emoji_text",
+        "label": "Nhập câu hoặc từ vựng (Chèn thêm Emoji)"
+      },
+      "correctAnswer": {
+        "type": "string",
+        "label": "Kết quả đúng"
+      }
+    },
+    "template": {
+      "type": "VOCABULARY_EMOJI",
+      "voice": "en-US-Jenny",
+      "content": "Apple 🍎",
+      "correctAnswer": "Quả táo"
+    }
+  }
+}
