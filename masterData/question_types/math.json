@@ -1,0 +1,56 @@
+{
+  "MATCHSTICK_PUZZLE": {
+    "name": "Giải đố Que Diêm",
+    "description": "Bài tập di chuyển que diêm",
+    "fields": {
+      "content": {
+        "type": "string",
+        "label": "Đề bài (VD: Di chuyển 1 que)"
+      },
+      "optionA": {
+        "type": "string",
+        "label": "Dữ liệu ban đầu (VD: 391)"
+      },
+      "optionB": {
+        "type": "string",
+        "label": "Loại thao tác (VD: MOVE/ADD/REMOVE)"
+      },
+      "maxMoves": {
+        "type": "number",
+        "label": "Số bước tối đa"
+      },
+      "correctAnswer": {
+        "type": "string",
+        "label": "Kết quả đúng (VD: 951)"
+      }
+    },
+    "template": {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm để được số lớn nhất",
+      "optionA": "391",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "951",
+      "matchsticks": []
+    }
+  },
+  "INPUT_NUMBER": {
+    "name": "Điền kết quả số",
+    "description": "Học sinh điền số vào phép tính",
+    "fields": {
+      "content": {
+        "type": "string",
+        "label": "Phép tính (VD: 1 + 1 = ?)"
+      },
+      "correctAnswer": {
+        "type": "string",
+        "label": "Kết quả đúng (Số)"
+      }
+    },
+    "template": {
+      "type": "INPUT_NUMBER",
+      "content": "1 + 1 = ?",
+      "correctAnswer": "2"
+    }
+  }
+}
