@@ -1,0 +1,14 @@
+{
+  "title": "bai tap co giao",
+  "description": "",
+  "questions": [
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm để được số bé nhấttttt",
+      "optionA": "391",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "361"
+    }
+  ]
+}
