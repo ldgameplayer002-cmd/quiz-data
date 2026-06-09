@@ -52,5 +52,63 @@
       "content": "1 + 1 = ?",
       "correctAnswer": "2"
     }
+  },
+  "MULTIPLE_CHOICE": {
+    "name": "Trắc nghiệm (Quiz cơ bản)",
+    "description": "Câu hỏi trắc nghiệm Toán học 4 đáp án",
+    "fields": {
+      "content": {
+        "type": "string",
+        "label": "Câu hỏi"
+      },
+      "optionA": {
+        "type": "string",
+        "label": "Đáp án A"
+      },
+      "optionB": {
+        "type": "string",
+        "label": "Đáp án B"
+      },
+      "optionC": {
+        "type": "string",
+        "label": "Đáp án C"
+      },
+      "optionD": {
+        "type": "string",
+        "label": "Đáp án D"
+      },
+      "correctAnswer": {
+        "type": "string",
+        "label": "Đáp án đúng (A/B/C/D)"
+      }
+    },
+    "template": {
+      "type": "MULTIPLE_CHOICE",
+      "content": "1 + 1 bằng mấy?",
+      "optionA": "1",
+      "optionB": "2",
+      "optionC": "3",
+      "optionD": "4",
+      "correctAnswer": "B"
+    }
+  },
+  "MATH_ARITHMETIC": {
+    "name": "Làm phép tính",
+    "description": "Điền kết quả phép tính",
+    "fields": {
+      "content": {
+        "type": "string",
+        "label": "Phép tính (VD: 5 + ? = 10)"
+      },
+      "correctAnswer": {
+        "type": "number",
+        "label": "Kết quả đúng"
+      }
+    },
+    "template": {
+      "type": "MATH_ARITHMETIC",
+      "content": "5 + ? = 10",
+      "correctAnswer": 5
+    }
   }
 }
