@@ -1,0 +1,51 @@
+{
+  "title": "Thử Thách Que Diêm Vui Nhộn",
+  "description": "Hãy suy nghĩ và thực hiện đúng số bước để tạo ra đáp án chính xác từ các que diêm.",
+  "questions": [
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm để được số lớn nhất",
+      "optionA": "391",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "951",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Thêm 1 que diêm để được số lớn nhất",
+      "optionA": "18",
+      "optionB": "ADD",
+      "maxMoves": 1,
+      "correctAnswer": "98",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Bỏ 1 que diêm để được số nhỏ nhất",
+      "optionA": "98",
+      "optionB": "REMOVE",
+      "maxMoves": 1,
+      "correctAnswer": "68",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm để được số lớn nhất",
+      "optionA": "508",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "908",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Thêm 1 que diêm để được số lớn nhất",
+      "optionA": "71",
+      "optionB": "ADD",
+      "maxMoves": 1,
+      "correctAnswer": "91",
+      "matchsticks": []
+    }
+  ]
+}
