@@ -93,12 +93,12 @@
     }
   },
   "MATH_ARITHMETIC": {
-    "name": "Làm phép tính",
-    "description": "Điền kết quả phép tính",
+    "name": "Toán đố có lời văn",
+    "description": "Bài tập giải toán có lời văn",
     "fields": {
       "content": {
         "type": "string",
-        "label": "Phép tính (VD: 5 + ? = 10)"
+        "label": "Đề bài (VD: Bố có 15 cái kẹo...)"
       },
       "correctAnswer": {
         "type": "number",
@@ -107,8 +107,8 @@
     },
     "template": {
       "type": "MATH_ARITHMETIC",
-      "content": "5 + ? = 10",
-      "correctAnswer": 5
+      "content": "Bố có 15 cái kẹo, bố cho anh 7 cái, cho em 3 cái. Hỏi bố có bao nhiêu cái kẹo?",
+      "correctAnswer": 15
     }
   }
 }
