@@ -1,0 +1,62 @@
+{
+  "title": "English Class 1 - Fun Vocabulary Quiz",
+  "description": "Bài tập nghe và chọn nghĩa của các từ vựng tiếng Anh cơ bản kết hợp hình ảnh trực quan cho học sinh lớp 1.",
+  "rewardPoints": 50,
+  "questions": [
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Hello",
+      "audioLang": "en",
+      "optionA": "👋 Xin chào",
+      "optionB": "🏃 Tạm biệt",
+      "optionC": "🙏 Cảm ơn",
+      "optionD": "😢 Xin lỗi",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Dog",
+      "audioLang": "en",
+      "optionA": "🐱 Con mèo",
+      "optionB": "🐦 Con chim",
+      "optionC": "🐶 Con chó",
+      "optionD": "🐟 Con cá",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Banana",
+      "audioLang": "en",
+      "optionA": "🍎 Quả táo",
+      "optionB": "🍋 Quả chanh",
+      "optionC": "🍓 Quả dâu",
+      "optionD": "🍌 Quả chuối",
+      "correctAnswer": "D"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Book",
+      "audioLang": "en",
+      "optionA": "✏️ Cái bút",
+      "optionB": "📏 Cái thước",
+      "optionC": "🎒 Cái cặp",
+      "optionD": "📚 Quyển sách",
+      "correctAnswer": "D"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Car",
+      "audioLang": "en",
+      "optionA": "🚗 Ô tô",
+      "optionB": "🚲 Xe đạp",
+      "optionC": "✈️ Máy bay",
+      "optionD": "🚢 Tàu thủy",
+      "correctAnswer": "A"
+    }
+  ]
+}
