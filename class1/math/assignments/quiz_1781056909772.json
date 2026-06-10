@@ -1,0 +1,56 @@
+{
+  "title": "BÀI TẬP TOÁN CÓ LỜI VĂN LỚP 2 - ÔN TẬP PHÉP TÍNH",
+  "description": "Bộ 10 câu hỏi toán đố có lời văn giúp học sinh lớp 2 rèn luyện tư duy phân tích và tính toán cộng, trừ, nhân, chia.",
+  "questions": [
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bố có 15 cái kẹo, bố cho anh 7 cái, cho em 3 cái. Hỏi bố có bao nhiêu cái kẹo?",
+      "correctAnswer": 15
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Lớp 2A có 18 bạn nam và 15 bạn nữ. Hỏi lớp 2A có tất cả bao nhiêu học sinh?",
+      "correctAnswer": 33
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một cửa hàng buổi sáng bán được 85 lít dầu, buổi chiều bán được ít hơn buổi sáng 18 lít dầu. Hỏi buổi chiều cửa hàng bán được bao nhiêu lít dầu?",
+      "correctAnswer": 67
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mỗi chiếc xe đạp có 2 bánh xe. Hỏi 8 chiếc xe đạp như thế thì có bao nhiêu bánh xe?",
+      "correctAnswer": 16
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Có 20 quả cam chia đều vào 5 rổ. Hỏi mỗi rổ có bao nhiêu quả cam?",
+      "correctAnswer": 4
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Đàn gà nhà an có 42 con, sau khi bán đi một số con thì còn lại 15 con. Hỏi nhà An đã bán đi bao nhiêu con gà?",
+      "correctAnswer": 27
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mỗi tuần lễ học sinh được đi học 5 ngày. Hỏi 4 tuần lễ như thế học sinh được đi học bao nhiêu ngày?",
+      "correctAnswer": 20
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Có 32 mét vải đem may các bộ quần áo, mỗi bộ hết 4 mét vải. Hỏi may được tất cả bao nhiêu bộ quần áo?",
+      "correctAnswer": 8
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bác Ba nuôi 65 con vịt. Số con gà bác nuôi nhiều hơn số con vịt là 27 con. Hỏi bác Ba nuôi bao nhiêu con gà?",
+      "correctAnswer": 92
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một sợi dây dài 100 cm, người ta cắt đi một đoạn dài 35 cm. Hỏi đoạn dây còn lại dài bao nhiêu xăng-ti-mét?",
+      "correctAnswer": 65
+    }
+  ]
+}
