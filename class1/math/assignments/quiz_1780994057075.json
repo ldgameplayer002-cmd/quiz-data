@@ -17,7 +17,7 @@
       "optionA": "18",
       "optionB": "ADD",
       "maxMoves": 1,
-      "correctAnswer": "98",
+      "correctAnswer": "78",
       "matchsticks": []
     },
     {
@@ -26,7 +26,7 @@
       "optionA": "98",
       "optionB": "REMOVE",
       "maxMoves": 1,
-      "correctAnswer": "68",
+      "correctAnswer": "38",
       "matchsticks": []
     },
     {
@@ -35,7 +35,7 @@
       "optionA": "508",
       "optionB": "MOVE",
       "maxMoves": 1,
-      "correctAnswer": "908",
+      "correctAnswer": "900",
       "matchsticks": []
     },
     {
@@ -44,7 +44,7 @@
       "optionA": "71",
       "optionB": "ADD",
       "maxMoves": 1,
-      "correctAnswer": "91",
+      "correctAnswer": "77",
       "matchsticks": []
     }
   ]
