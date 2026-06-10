@@ -1,15 +1,56 @@
 {
-  "title": "Toán Cơ Bản",
-  "description": "Các phép tính đơn giản",
+  "title": "BÀI TẬP TOÁN LỚP 2 - HÉP TÍNH PHẠM VI 1000",
+  "description": "Bài tập luyện tập các phép tính cộng, trừ, nhân, chia hai chữ số trong phạm vi 1000 dành cho học sinh lớp 2.",
   "questions": [
     {
-      "type": "MULTIPLE_CHOICE",
-      "content": "1 + 1 = ?",
-      "optionA": "1",
-      "optionB": "2",
-      "optionC": "3",
-      "optionD": "4",
-      "correctAnswer": "B"
+      "type": "INPUT_NUMBER",
+      "content": "45 + 32 = ?",
+      "correctAnswer": "77"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "89 - 45 = ?",
+      "correctAnswer": "44"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "12 x 4 = ?",
+      "correctAnswer": "48"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "68 : 2 = ?",
+      "correctAnswer": "34"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "56 + 27 = ?",
+      "correctAnswer": "83"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "73 - 38 = ?",
+      "correctAnswer": "35"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "23 x 3 = ?",
+      "correctAnswer": "69"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "96 : 3 = ?",
+      "correctAnswer": "32"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "64 + 19 = ?",
+      "correctAnswer": "83"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "92 - 56 = ?",
+      "correctAnswer": "36"
     }
   ]
 }
