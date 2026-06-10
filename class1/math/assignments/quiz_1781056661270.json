@@ -1,0 +1,231 @@
+{
+  "title": "BÀI TẬP ÔN TẬP TOÁN LỚP 2 - TỔNG HỢP PHÉP TÍNH VÀ SO SÁNH",
+  "description": "Bộ câu hỏi trắc nghiệm ôn luyện kỹ năng cộng, trừ, nhân, chia và so sánh số trong phạm vi môn Toán lớp 2.",
+  "questions": [
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Kết quả của phép tính 32 + 45 bằng bao nhiêu?",
+      "optionA": "67",
+      "optionB": "75",
+      "optionC": "77",
+      "optionD": "87",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Kết quả của phép tính 89 - 34 bằng bao nhiêu?",
+      "optionA": "55",
+      "optionB": "45",
+      "optionC": "65",
+      "optionD": "53",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Phép nhân 5 x 4 có kết quả là:",
+      "optionA": "15",
+      "optionB": "20",
+      "optionC": "25",
+      "optionD": "30",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Kết quả của phép chia 18 : 2 là:",
+      "optionA": "7",
+      "optionB": "8",
+      "optionC": "9",
+      "optionD": "6",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền dấu thích hợp vào chỗ trống: 45 + 12 ... 60",
+      "optionA": ">",
+      "optionB": "<",
+      "optionC": "=",
+      "optionD": "Không có dấu nào",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tính: 67 + 28 = ?",
+      "optionA": "85",
+      "optionB": "95",
+      "optionC": "93",
+      "optionD": "83",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tính: 91 - 46 = ?",
+      "optionA": "45",
+      "optionB": "55",
+      "optionC": "35",
+      "optionD": "46",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Phép tính nào dưới đây có kết quả bằng 12?",
+      "optionA": "2 x 5",
+      "optionB": "3 x 4",
+      "optionC": "4 x 4",
+      "optionD": "2 x 7",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tìm x biết: 20 : x = 5",
+      "optionA": "2",
+      "optionB": "3",
+      "optionC": "4",
+      "optionD": "5",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền dấu thích hợp vào chỗ trống: 73 - 25 ... 50",
+      "optionA": ">",
+      "optionB": "<",
+      "optionC": "=",
+      "optionD": "Không có dấu nào",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Kết quả của phép tính 154 + 235 là:",
+      "optionA": "389",
+      "optionB": "379",
+      "optionC": "399",
+      "optionD": "289",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Kết quả của phép tính 485 - 123 là:",
+      "optionA": "352",
+      "optionB": "362",
+      "optionC": "262",
+      "optionD": "368",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Phép tính 2 x 8 có kết quả bằng với phép tính nào dưới đây?",
+      "optionA": "4 x 3",
+      "optionB": "5 x 3",
+      "optionC": "2 x 9",
+      "optionD": "4 x 4",
+      "correctAnswer": "D"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Có 14 quả táo chia đều vào 2 rổ. Hỏi mỗi rổ có bao nhiêu quả táo?",
+      "optionA": "6 quả",
+      "optionB": "7 quả",
+      "optionC": "8 quả",
+      "optionD": "9 quả",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền dấu thích hợp vào chỗ trống: 5 x 3 ... 2 x 7",
+      "optionA": "<",
+      "optionB": "=",
+      "optionC": ">",
+      "optionD": "Không có dấu nào",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tính nhẩm: 40 + 60 = ?",
+      "optionA": "80",
+      "optionB": "90",
+      "optionC": "100",
+      "optionD": "70",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tính: 100 - 35 = ?",
+      "optionA": "75",
+      "optionB": "65",
+      "optionC": "55",
+      "optionD": "45",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Mỗi con thỏ có 4 cái chân. Hỏi 5 con thỏ có bao nhiêu cái chân?",
+      "optionA": "16 cái chân",
+      "optionB": "20 cái chân",
+      "optionC": "24 cái chân",
+      "optionD": "25 cái chân",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Kết quả của phép chia 30 : 5 là:",
+      "optionA": "5",
+      "optionB": "7",
+      "optionC": "6",
+      "optionD": "8",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền dấu thích hợp vào chỗ trống: 12 : 2 ... 30 : 5",
+      "optionA": ">",
+      "optionB": "<",
+      "optionC": "=",
+      "optionD": "Không có dấu nào",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Mẹ mua 23 bông hoa hồng và 18 bông hoa cúc. Hỏi mẹ mua tất cả bao nhiêu bông hoa?",
+      "optionA": "41 bông hoa",
+      "optionB": "31 bông hoa",
+      "optionC": "40 bông hoa",
+      "optionD": "38 bông hoa",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Một cửa hàng có 85 mét vải, đã bán được 47 mét. Hỏi cửa hàng còn lại bao nhiêu mét vải?",
+      "optionA": "48 mét",
+      "optionB": "38 mét",
+      "optionC": "32 mét",
+      "optionD": "42 mét",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tìm một số biết số đó nhân với 2 thì bằng 16.",
+      "optionA": "6",
+      "optionB": "7",
+      "optionC": "8",
+      "optionD": "9",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Phép tính nào sau đây là SAI?",
+      "optionA": "2 x 3 = 6",
+      "optionB": "5 x 5 = 25",
+      "optionC": "16 : 2 = 8",
+      "optionD": "20 : 5 = 5",
+      "correctAnswer": "D"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền dấu thích hợp vào chỗ trống: 99 - 19 ... 4 x 10",
+      "optionA": "<",
+      "optionB": "=",
+      "optionC": ">",
+      "optionD": "Không có dấu nào",
+      "correctAnswer": "C"
+    }
+  ]
+}
