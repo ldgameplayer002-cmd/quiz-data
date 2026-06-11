@@ -1,0 +1,142 @@
+{
+  "title": "Toán Lớp 2 - Trắc Nghiệm Chọn Đáp Án Mở Rộng",
+  "description": "Lựa chọn đáp án đúng nhất cho các câu hỏi toán học bốn phép tính và so sánh.",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Kết quả của phép tính 35 + 42 là bao nhiêu?",
+      "optionA": "67",
+      "optionB": "77",
+      "optionC": "87",
+      "optionD": "75",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền dấu thích hợp vào chỗ trống: 45 + 12 ... 85 - 20",
+      "optionA": "<",
+      "optionB": ">",
+      "optionC": "=",
+      "optionD": "Không có dấu phù hợp",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Phép tính nào dưới đây có kết quả bằng 24?",
+      "optionA": "4 x 5",
+      "optionB": "3 x 7",
+      "optionC": "6 x 4",
+      "optionD": "5 x 5",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tìm x, biết: x : 4 = 5",
+      "optionA": "9",
+      "optionB": "16",
+      "optionC": "1",
+      "optionD": "20",
+      "correctAnswer": "D"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Hiệu của số lớn nhất có hai chữ số và số nhỏ nhất có hai chữ số là:",
+      "optionA": "89",
+      "optionB": "90",
+      "optionC": "99",
+      "optionD": "80",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Kết quả của phép tính 14 x 5 là bao nhiêu?",
+      "optionA": "60",
+      "optionB": "70",
+      "optionC": "80",
+      "optionD": "50",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền dấu thích hợp vào chỗ trống: 5 x 8 ... 90 : 2",
+      "optionA": ">",
+      "optionB": "<",
+      "optionC": "=",
+      "optionD": "Không có dấu phù hợp",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Số liền sau của tổng 230 + 150 là:",
+      "optionA": "380",
+      "optionB": "379",
+      "optionC": "381",
+      "optionD": "382",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tìm x, biết: 120 - x = 45",
+      "optionA": "75",
+      "optionB": "85",
+      "optionC": "65",
+      "optionD": "165",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Phép chia nào dưới đây có số dư bằng 0?",
+      "optionA": "25 : 4",
+      "optionB": "32 : 5",
+      "optionC": "42 : 6",
+      "optionD": "19 : 3",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Tổng của số tròn chục lớn nhất có hai chữ số và 15 là:",
+      "optionA": "105",
+      "optionB": "114",
+      "optionC": "104",
+      "optionD": "115",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Số nào nhân với 5 thì được kết quả là số chẵn nhỏ nhất có hai chữ số?",
+      "optionA": "1",
+      "optionB": "2",
+      "optionC": "3",
+      "optionD": "4",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Điền dấu thích hợp: 300 - 150 ... 50 x 3",
+      "optionA": "<",
+      "optionB": ">",
+      "optionC": "=",
+      "optionD": "Không có dấu phù hợp",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Một tuần lễ có 7 ngày. Hỏi 4 tuần lễ có bao nhiêu ngày?",
+      "optionA": "11 ngày",
+      "optionB": "24 ngày",
+      "optionC": "28 ngày",
+      "optionD": "32 ngày",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "content": "Giá trị của chữ số 4 trong số 452 là:",
+      "optionA": "4",
+      "optionB": "40",
+      "optionC": "400",
+      "optionD": "45",
+      "correctAnswer": "C"
+    }
+  ]
+}
