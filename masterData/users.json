@@ -23,5 +23,16 @@
     "grades": [
       "class2"
     ]
+  },
+  "admin": {
+    "role": "ADMIN",
+    "status": "active",
+    "subjects": [
+      "ALL"
+    ],
+    "grades": [
+      "ALL"
+    ],
+    "password": "$2b$10$D.LEo43yeOZ2kG92scRUo.a6CG3/KBN4tQtjQ0e0El4.hl2j28e7S"
   }
 }
