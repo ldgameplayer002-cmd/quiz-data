@@ -1,0 +1,117 @@
+{
+  "title": "Bộ đề 3: Thế Giới Các Loài Hoa Rực Rỡ",
+  "description": "Bé cùng làm quen với tên gọi tiếng Anh của các loài hoa xinh đẹp nhé!",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Rose",
+      "audioLang": "en",
+      "optionA": "Hoa hướng dương 🌻",
+      "optionB": "Hoa tulip 🌷",
+      "optionC": "Hoa hồng 🌹",
+      "optionD": "Hoa ly 🪷",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Sunflower",
+      "audioLang": "en",
+      "optionA": "Hoa hướng dương 🌻",
+      "optionB": "Hoa cúc 🌼",
+      "optionC": "Hoa sen 🪷",
+      "optionD": "Hoa lan 🌸",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Tulip",
+      "audioLang": "en",
+      "optionA": "Hoa anh đào 🌸",
+      "optionB": "Hoa tulip 🌷",
+      "optionC": "Hoa dâm bụt 🌺",
+      "optionD": "Hoa nở 🌼",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Lily",
+      "audioLang": "en",
+      "optionA": "Hoa ly 🪷",
+      "optionB": "Hoa hồng 🌹",
+      "optionC": "Cái cây 🌳",
+      "optionD": "Cái tổ 🪹",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Daisy",
+      "audioLang": "en",
+      "optionA": "Sư tử 🦁",
+      "optionB": "Nữ hoàng 👸",
+      "optionC": "Hoa cúc 🌼",
+      "optionD": "Hoa sen 🪷",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Lotus",
+      "audioLang": "en",
+      "optionA": "Hoa sen 🪷",
+      "optionB": "Hoa lan 🌸",
+      "optionC": "Hoa anh đào 🌸",
+      "optionD": "Hoa dâm bụt 🌺",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Orchid",
+      "audioLang": "en",
+      "optionA": "Hoa lan 🌸",
+      "optionB": "Hoa nở 🌼",
+      "optionC": "Quả táo 🍎",
+      "optionD": "Quả chuối 🍌",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Cherry Blossom",
+      "audioLang": "en",
+      "optionA": "Quả cam 🍊",
+      "optionB": "Hoa anh đào 🌸",
+      "optionC": "Quả nho 🍇",
+      "optionD": "Quả dưa hấu 🍉",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Hibiscus",
+      "audioLang": "en",
+      "optionA": "Quả dâu tây 🍓",
+      "optionB": "Quả lê 🍐",
+      "optionC": "Hoa dâm bụt 🌺",
+      "optionD": "Quả đào 🍑",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Blossom",
+      "audioLang": "en",
+      "optionA": "Hoa nở 🌼",
+      "optionB": "Quả anh đào 🍒",
+      "optionC": "Quả dứa 🍍",
+      "optionD": "Quả xoài 🥭",
+      "correctAnswer": "A"
+    }
+  ]
+}
