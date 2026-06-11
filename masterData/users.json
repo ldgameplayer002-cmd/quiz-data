@@ -13,7 +13,9 @@
     ],
     "password": "$2b$10$TOU18XiUKZSHTWp7d0dBxeJaKKV3lj/Z1FnoxQtbA8oYiAZHtodNK",
     "displayName": "Giáo viên test 1",
-    "viewableAuthors": [],
+    "viewableAuthors": [
+      "giaovientest2"
+    ],
     "region": "hanoi1"
   },
   "giaovientest2": {
