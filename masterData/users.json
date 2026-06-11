@@ -43,5 +43,20 @@
       "ALL"
     ],
     "password": "$2b$10$D.LEo43yeOZ2kG92scRUo.a6CG3/KBN4tQtjQ0e0El4.hl2j28e7S"
+  },
+  "giaovien3": {
+    "role": "TEACHER",
+    "displayName": "giáo viên 3",
+    "status": "active",
+    "subjects": [
+      "math"
+    ],
+    "grades": [
+      "class1",
+      "class2"
+    ],
+    "viewableAuthors": [],
+    "region": "hanoi1",
+    "password": "$2b$10$IuPjzG4REkwDnCXKp74d1.5Gk4kCq.ABV6d4/Dr4acUrQUuK3CM.."
   }
 }
