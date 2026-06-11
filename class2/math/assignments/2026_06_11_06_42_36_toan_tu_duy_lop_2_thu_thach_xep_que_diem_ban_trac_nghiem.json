@@ -9,7 +9,7 @@
       "optionA": "97",
       "optionB": "MOVE",
       "maxMoves": 3,
-      "correctAnswer": "741",
+      "correctAnswer": "777",
       "matchsticks": []
     },
     {
@@ -36,7 +36,7 @@
       "optionA": "87",
       "optionB": "REMOVE",
       "maxMoves": 3,
-      "correctAnswer": "117",
+      "correctAnswer": "751",
       "matchsticks": []
     },
     {
@@ -48,5 +48,6 @@
       "correctAnswer": "357",
       "matchsticks": []
     }
-  ]
+  ],
+  "version": 2
 }
