@@ -1,0 +1,52 @@
+{
+  "title": "Toán Tư Duy Lớp 2 - Thử Thách Xếp Que Diêm Bản Trắc Nghiệm",
+  "description": "Bé hãy suy nghĩ logic để di chuyển, thêm hoặc bớt các que diêm tạo thành số lớn nhất hoặc phép tính đúng.",
+  "rewardPoints": 50,
+  "questions": [
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 3 que diêm từ số 97 để tạo thành số lớn nhất có thể",
+      "optionA": "97",
+      "optionB": "MOVE",
+      "maxMoves": 3,
+      "correctAnswer": "741",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 2 que diêm từ số 508 để tạo thành số lớn nhất có thể",
+      "optionA": "508",
+      "optionB": "MOVE",
+      "maxMoves": 2,
+      "correctAnswer": "998",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Thêm 1 que diêm vào số 61 để tạo thành số lớn nhất",
+      "optionA": "61",
+      "optionB": "ADD",
+      "maxMoves": 1,
+      "correctAnswer": "81",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Bớt 3 que diêm từ số 87 để tạo thành số nhỏ lớn có thể",
+      "optionA": "87",
+      "optionB": "REMOVE",
+      "maxMoves": 3,
+      "correctAnswer": "117",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển ít nhất 3 que diêm từ số 150 để biến nó thành số lớn nhất có 3 chữ số",
+      "optionA": "150",
+      "optionB": "MOVE",
+      "maxMoves": 3,
+      "correctAnswer": "999",
+      "matchsticks": []
+    }
+  ]
+}
