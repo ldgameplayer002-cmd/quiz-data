@@ -12,8 +12,59 @@
         "label": "Văn bản phát âm"
       },
       "audioLang": {
+        "type": "select",
+        "label": "Ngôn ngữ",
+        "options": [
+          "en",
+          "vi"
+        ]
+      },
+      "optionA": {
+        "type": "emoji_text",
+        "label": "Đáp án A"
+      },
+      "optionB": {
+        "type": "emoji_text",
+        "label": "Đáp án B"
+      },
+      "optionC": {
+        "type": "emoji_text",
+        "label": "Đáp án C"
+      },
+      "optionD": {
+        "type": "emoji_text",
+        "label": "Đáp án D"
+      },
+      "correctAnswer": {
+        "type": "select",
+        "label": "Đáp án đúng",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "template": {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Apple",
+      "audioLang": "en",
+      "optionA": "Quả táo 🍎",
+      "optionB": "Quả chuối 🍌",
+      "optionC": "Quả cam 🍊",
+      "optionD": "Quả dưa 🍉",
+      "correctAnswer": "A"
+    }
+  },
+  "MULTIPLE_CHOICE": {
+    "name": "Trắc nghiệm 4 đáp án",
+    "description": "Câu hỏi trắc nghiệm tiếng Anh cơ bản",
+    "fields": {
+      "content": {
         "type": "string",
-        "label": "Mã ngôn ngữ (en/vi)"
+        "label": "Câu hỏi"
       },
       "optionA": {
         "type": "string",
@@ -32,62 +83,24 @@
         "label": "Đáp án D"
       },
       "correctAnswer": {
-        "type": "string",
-        "label": "Đáp án đúng (A/B/C/D)"
-      }
-    },
-    "template": {
-      "type": "AUDIO_CHOICE",
-      "content": "Nghe và chọn từ đúng:",
-      "audioText": "Apple",
-      "audioLang": "en",
-      "optionA": "Quả táo",
-      "optionB": "Quả chuối",
-      "optionC": "Quả cam",
-      "optionD": "Con mèo",
-      "correctAnswer": "A"
-    }
-  },
-  "VOCABULARY_EMOJI": {
-    "name": "Học từ vựng qua ảnh (Emoji)",
-    "description": "Câu hỏi dạng kéo thả / chọn Emoji cho từ vựng tiếng Anh",
-    "fields": {
-      "voice": {
         "type": "select",
-        "label": "Giọng đọc AI",
+        "label": "Đáp án đúng",
         "options": [
-          {
-            "value": "en-US-Jenny",
-            "label": "Tiếng Anh Mỹ (Nữ)"
-          },
-          {
-            "value": "en-US-Guy",
-            "label": "Tiếng Anh Mỹ (Nam)"
-          },
-          {
-            "value": "en-GB-Sonia",
-            "label": "Tiếng Anh Anh (Nữ)"
-          },
-          {
-            "value": "en-GB-Ryan",
-            "label": "Tiếng Anh Anh (Nam)"
-          }
+          "A",
+          "B",
+          "C",
+          "D"
         ]
-      },
-      "content": {
-        "type": "emoji_text",
-        "label": "Nhập câu hoặc từ vựng (Chèn thêm Emoji)"
-      },
-      "correctAnswer": {
-        "type": "string",
-        "label": "Kết quả đúng"
       }
     },
     "template": {
-      "type": "VOCABULARY_EMOJI",
-      "voice": "en-US-Jenny",
-      "content": "Apple 🍎",
-      "correctAnswer": "Quả táo"
+      "type": "MULTIPLE_CHOICE",
+      "content": "What is this?",
+      "optionA": "Cat",
+      "optionB": "Dog",
+      "optionC": "Bird",
+      "optionD": "Fish",
+      "correctAnswer": "A"
     }
   }
 }
