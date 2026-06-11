@@ -1,0 +1,117 @@
+{
+  "title": "Bộ đề 2: Từ Vựng Tiếng Anh Cơ Bản - Phần 2",
+  "description": "Thử thách nghe hiểu từ vựng qua âm thanh sinh động dành cho các bé lớp 2.",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Kite",
+      "audioLang": "en",
+      "optionA": "Quả cà chua 🍅",
+      "optionB": "Cái diều 🪁",
+      "optionC": "Quả quýt 🍊",
+      "optionD": "Con lợn 🐷",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Lion",
+      "audioLang": "en",
+      "optionA": "Sư tử 🦁",
+      "optionB": "Hoa ly 🪷",
+      "optionC": "Hoa lan 🌸",
+      "optionD": "Quả lê 🍐",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Monkey",
+      "audioLang": "en",
+      "optionA": "Táo xanh 🍏",
+      "optionB": "Quả dưa 🍈",
+      "optionC": "Con khỉ 🐒",
+      "optionD": "Hoa nở 🌼",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Nest",
+      "audioLang": "en",
+      "optionA": "Cái tổ 🪹",
+      "optionB": "Hoa dâm bụt 🌺",
+      "optionC": "Quả anh đào 🍒",
+      "optionD": "Hoa hướng dương 🌻",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Orange",
+      "audioLang": "en",
+      "optionA": "Quả việt quất 🫐",
+      "optionB": "Quả kiwi 🥝",
+      "optionC": "Quả dưa hấu 🍉",
+      "optionD": "Quả cam 🍊",
+      "correctAnswer": "D"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Pig",
+      "optionA": "Con lợn 🐷",
+      "optionB": "Hoa cúc 🌼",
+      "optionC": "Mặt trời ☀️",
+      "optionD": "Cái cây 🌳",
+      "audioLang": "en",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Queen",
+      "audioLang": "en",
+      "optionA": "Con mèo 🐱",
+      "optionB": "Nữ hoàng 👸",
+      "optionC": "Con thỏ 🐰",
+      "optionD": "Con cá 🐟",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Rabbit",
+      "audioLang": "en",
+      "optionA": "Con thỏ 🐰",
+      "optionB": "Con voi 🐘",
+      "optionC": "Sư tử 🦁",
+      "optionD": "Quả cam 🍊",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Sun",
+      "audioLang": "en",
+      "optionA": "Ngôi nhà 🏠",
+      "optionB": "Quả táo 🍎",
+      "optionC": "Mặt trời ☀️",
+      "optionD": "Kem 🍦",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Tree",
+      "audioLang": "en",
+      "optionA": "Cái cây 🌳",
+      "optionB": "Nước ép 🧃",
+      "optionC": "Cái diều 🪁",
+      "optionD": "Con chó 🐶",
+      "correctAnswer": "A"
+    }
+  ]
+}
