@@ -1,0 +1,82 @@
+{
+  "title": "Toán Lớp 2 - Giải Toán Có Lời Văn Thử Thách",
+  "description": "Phân tích đề bài toán thực tế và tính toán kết quả số chính xác.",
+  "rewardPoints": 35,
+  "questions": [
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bác An nuôi 45 con gà, bác mua thêm 15 con gà nữa. Hỏi bác An có tất cả bao nhiêu con gà?",
+      "correctAnswer": 60
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mẹ có 32 cái kẹo, mẹ chia đều cho 4 anh em. Hỏi mỗi người nhận được bao nhiêu cái kẹo?",
+      "correctAnswer": 8
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một cửa hàng có 150 quả bóng, cửa hàng đã bán đi 40 quả. Hỏi cửa hàng còn lại bao nhiêu quả bóng?",
+      "correctAnswer": 110
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mỗi tuýp màu vẽ có giá 5 nghìn đồng. Bạn Nam muốn mua 6 tuýp màu như thế. Hỏi bạn Nam phải trả bao nhiêu nghìn đồng?",
+      "correctAnswer": 30
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Lớp 2A có 18 bạn học sinh nam và 17 bạn học sinh nữ. Hỏi lớp 2A có tổng cộng bao nhiêu bạn học sinh?",
+      "correctAnswer": 35
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một sợi dây dài 80 cm, chị Hà cắt đi một đoạn dài 3 dm. Hỏi đoạn dây còn lại dài bao nhiêu xăng-ti-mét?",
+      "correctAnswer": 50
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mỗi thùng dầu chứa được 12 lít dầu. Hỏi 5 thùng dầu như thế chứa được tất cả bao nhiêu lít dầu?",
+      "correctAnswer": 60
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Có 40 học sinh đang xếp hàng, mỗi hàng có 5 học sinh. Hỏi xếp được tất cả bao nhiêu hàng?",
+      "correctAnswer": 8
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Vườn nhà mai có 120 cây ăn quả, vườn nhà Lan có nhiều hơn vườn nhà Mai 40 cây. Hỏi vườn nhà Lan có bao nhiêu cây ăn quả?",
+      "correctAnswer": 160
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một quyển truyện dày 95 trang. Bạn Minh đã đọc được 68 trang. Hỏi bạn Minh còn phải đọc bao nhiêu trang nữa thì hết quyển truyện?",
+      "correctAnswer": 27
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mỗi bàn học ngồi được 2 bạn học sinh. Hỏi cần bao nhiêu bàn học để đủ chỗ ngồi cho 18 bạn học sinh?",
+      "correctAnswer": 9
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Hồng có 50 viên bi. Hồng cho Tâm 12 viên bi và cho Đức 15 viên bi. Hỏi Hồng còn lại bao nhiêu viên bi?",
+      "correctAnswer": 23
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một cửa hàng buổi sáng bán được 240 lít sữa, buổi chiều bán được ít hơn buổi sáng 50 lít sữa. Hỏi buổi chiều cửa hàng bán được bao nhiêu lít sữa?",
+      "correctAnswer": 190
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mỗi hộp bút chì màu có 8 chiếc bút. Bạn Vy mua 4 hộp bút như thế và được tặng thêm 2 chiếc rời. Hỏi bạn Vy có tất cả bao nhiêu chiếc bút chì màu?",
+      "correctAnswer": 34
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Đàn vịt nhà bác Đào có 35 con dưới ao và 28 con trên bờ. Hỏi nhà bác Đào có tất cả bao nhiêu con vịt?",
+      "correctAnswer": 63
+    }
+  ]
+}
