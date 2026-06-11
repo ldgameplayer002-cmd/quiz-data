@@ -8,7 +8,8 @@
     ],
     "grades": [
       "class2",
-      "class3"
+      "class3",
+      "class4"
     ]
   },
   "giaovientest2": {
@@ -20,7 +21,6 @@
     ],
     "grades": [
       "class2"
-    ],
-    "password": "$2b$10$DOeG4dkIs7XRUkvrZJEm9ODxcIjc.xywJJ/gFit4fLHo4KlmvzdNS"
+    ]
   }
 }
