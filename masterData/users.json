@@ -58,5 +58,15 @@
     "viewableAuthors": [],
     "region": "hanoi1",
     "password": "$2b$10$IuPjzG4REkwDnCXKp74d1.5Gk4kCq.ABV6d4/Dr4acUrQUuK3CM.."
+  },
+  "giáo viên 4": {
+    "role": "TEACHER",
+    "displayName": "GIáo viên 4",
+    "status": "active",
+    "subjects": [],
+    "grades": [],
+    "viewableAuthors": [],
+    "region": "hanoi2",
+    "password": "$2b$10$cLPOesqxca9RMtepT/EaE.nkVIKiefShLNTQpaRcqI1ptZu722KDy"
   }
 }
