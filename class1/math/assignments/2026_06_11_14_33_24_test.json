@@ -1,0 +1,12 @@
+{
+  "title": "test",
+  "description": "test",
+  "rewardPoints": 0,
+  "questions": [
+    {
+      "type": "INPUT_NUMBER",
+      "content": "1 - 1 = ?",
+      "correctAnswer": "= "
+    }
+  ]
+}
