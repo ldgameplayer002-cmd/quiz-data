@@ -1,7 +1,7 @@
 {
   "giaovientest": {
     "role": "TEACHER",
-    "status": "inactive",
+    "status": "active",
     "subjects": [
       "math",
       "english"
