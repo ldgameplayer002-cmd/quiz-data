@@ -10,5 +10,17 @@
       "class2",
       "class3"
     ]
+  },
+  "giaovientest2": {
+    "role": "TEACHER",
+    "status": "active",
+    "subjects": [
+      "math",
+      "english"
+    ],
+    "grades": [
+      "class2"
+    ],
+    "password": "$2b$10$DOeG4dkIs7XRUkvrZJEm9ODxcIjc.xywJJ/gFit4fLHo4KlmvzdNS"
   }
 }
