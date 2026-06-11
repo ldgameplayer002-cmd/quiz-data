@@ -1,156 +1,117 @@
 {
-  "grade": 1,
-  "title": "Từ vựng Các Loài Hoa và Quả",
-  "words": [
+  "title": "Bộ đề 1: Từ Vựng Tiếng Anh Cơ Bản - Phần 1",
+  "description": "Bé hãy nghe âm thanh và chọn đúng hình ảnh của các từ vựng quen thuộc nhé!",
+  "rewardPoints": 20,
+  "questions": [
     {
-      "word": "Rose",
-      "meaning": "Hoa hồng",
-      "emoji": "🌹"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Apple",
+      "audioLang": "en",
+      "optionA": "Quả táo 🍎",
+      "optionB": "Quả chuối 🍌",
+      "optionC": "Con mèo 🐱",
+      "optionD": "Con chó 🐶",
+      "correctAnswer": "A"
     },
     {
-      "word": "Sunflower",
-      "meaning": "Hoa hướng dương",
-      "emoji": "🌻"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Banana",
+      "audioLang": "en",
+      "optionA": "Con cá 🐟",
+      "optionB": "Quả nho 🍇",
+      "optionC": "Quả chuối 🍌",
+      "optionD": "Ngôi nhà 🏠",
+      "correctAnswer": "C"
     },
     {
-      "word": "Tulip",
-      "meaning": "Hoa tulip",
-      "emoji": "🌷"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Cat",
+      "audioLang": "en",
+      "optionA": "Con voi 🐘",
+      "optionB": "Con mèo 🐱",
+      "optionC": "Con chó 🐶",
+      "optionD": "Cái diều 🪁",
+      "correctAnswer": "B"
     },
     {
-      "word": "Lily",
-      "meaning": "Hoa ly",
-      "emoji": "🪷"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Dog",
+      "audioLang": "en",
+      "optionA": "Con chó 🐶",
+      "optionB": "Kem 🍦",
+      "optionC": "Sư tử 🦁",
+      "optionD": "Con khỉ 🐒",
+      "correctAnswer": "A"
     },
     {
-      "word": "Daisy",
-      "meaning": "Hoa cúc",
-      "emoji": "🌼"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Elephant",
+      "audioLang": "en",
+      "optionA": "Nước ép 🧃",
+      "optionB": "Cái tổ 🪹",
+      "optionC": "Quả cam 🍊",
+      "optionD": "Con voi 🐘",
+      "correctAnswer": "D"
     },
     {
-      "word": "Lotus",
-      "meaning": "Hoa sen",
-      "emoji": "🪷"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Fish",
+      "audioLang": "en",
+      "optionA": "Con cá 🐟",
+      "optionB": "Nữ hoàng 👸",
+      "optionC": "Con thỏ 🐰",
+      "optionD": "Mặt trời ☀️",
+      "correctAnswer": "A"
     },
     {
-      "word": "Orchid",
-      "meaning": "Hoa lan",
-      "emoji": "🌸"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Grape",
+      "audioLang": "en",
+      "optionA": "Cái cây 🌳",
+      "optionB": "Quả nho 🍇",
+      "optionC": "Hoa hồng 🌹",
+      "optionD": "Hoa cúc 🌼",
+      "correctAnswer": "B"
     },
     {
-      "word": "Cherry Blossom",
-      "meaning": "Hoa anh đào",
-      "emoji": "🌸"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "House",
+      "audioLang": "en",
+      "optionA": "Hoa tulip 🌷",
+      "optionB": "Hoa sen 🪷",
+      "optionC": "Ngôi nhà 🏠",
+      "optionD": "Quả lê 🍐",
+      "correctAnswer": "C"
     },
     {
-      "word": "Hibiscus",
-      "meaning": "Hoa dâm bụt",
-      "emoji": "🌺"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Ice cream",
+      "audioLang": "en",
+      "optionA": "Kem 🍦",
+      "optionB": "Quả đào 🍑",
+      "optionC": "Quả dứa 🍍",
+      "optionD": "Quả xoài 🥭",
+      "correctAnswer": "A"
     },
     {
-      "word": "Blossom",
-      "meaning": "Hoa nở",
-      "emoji": "🌼"
-    },
-    {
-      "word": "Apple",
-      "meaning": "Quả táo",
-      "emoji": "🍎"
-    },
-    {
-      "word": "Banana",
-      "meaning": "Quả chuối",
-      "emoji": "🍌"
-    },
-    {
-      "word": "Orange",
-      "meaning": "Quả cam",
-      "emoji": "🍊"
-    },
-    {
-      "word": "Grapes",
-      "meaning": "Quả nho",
-      "emoji": "🍇"
-    },
-    {
-      "word": "Watermelon",
-      "meaning": "Quả dưa hấu",
-      "emoji": "🍉"
-    },
-    {
-      "word": "Strawberry",
-      "meaning": "Quả dâu tây",
-      "emoji": "🍓"
-    },
-    {
-      "word": "Pear",
-      "meaning": "Quả lê",
-      "emoji": "🍐"
-    },
-    {
-      "word": "Peach",
-      "meaning": "Quả đào",
-      "emoji": "🍑"
-    },
-    {
-      "word": "Cherry",
-      "meaning": "Quả anh đào",
-      "emoji": "🍒"
-    },
-    {
-      "word": "Pineapple",
-      "meaning": "Quả dứa",
-      "emoji": "🍍"
-    },
-    {
-      "word": "Mango",
-      "meaning": "Quả xoài",
-      "emoji": "🥭"
-    },
-    {
-      "word": "Lemon",
-      "meaning": "Quả chanh",
-      "emoji": "🍋"
-    },
-    {
-      "word": "Coconut",
-      "meaning": "Quả dừa",
-      "emoji": "🥥"
-    },
-    {
-      "word": "Kiwi",
-      "meaning": "Quả kiwi",
-      "emoji": "🥝"
-    },
-    {
-      "word": "Avocado",
-      "meaning": "Quả bơ",
-      "emoji": "🥑"
-    },
-    {
-      "word": "Tomato",
-      "meaning": "Quả cà chua",
-      "emoji": "🍅"
-    },
-    {
-      "word": "Blueberry",
-      "meaning": "Quả việt quất",
-      "emoji": "🫐"
-    },
-    {
-      "word": "Melon",
-      "meaning": "Quả dưa",
-      "emoji": "🍈"
-    },
-    {
-      "word": "Green Apple",
-      "meaning": "Táo xanh",
-      "emoji": "🍏"
-    },
-    {
-      "word": "Tangerine",
-      "meaning": "Quả quýt",
-      "emoji": "🍊"
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Juice",
+      "audioLang": "en",
+      "optionA": "Quả chanh 🍋",
+      "optionB": "Quả dừa 🥥",
+      "optionC": "Quả bơ 🥑",
+      "optionD": "Nước ép 🧃",
+      "correctAnswer": "D"
     }
   ]
 }
