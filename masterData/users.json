@@ -11,7 +11,10 @@
       "class3",
       "class4"
     ],
-    "password": "$2b$10$TOU18XiUKZSHTWp7d0dBxeJaKKV3lj/Z1FnoxQtbA8oYiAZHtodNK"
+    "password": "$2b$10$TOU18XiUKZSHTWp7d0dBxeJaKKV3lj/Z1FnoxQtbA8oYiAZHtodNK",
+    "displayName": "Giáo viên test 1",
+    "viewableAuthors": [],
+    "region": "hanoi1"
   },
   "giaovientest2": {
     "role": "TEACHER",
