@@ -1,5 +1,8 @@
 {
   "hanoi1": {
     "name": "Hà Nội 1"
+  },
+  "hanoi2": {
+    "name": "Hà Nội 2"
   }
 }
