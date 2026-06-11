@@ -1,0 +1,117 @@
+{
+  "title": "Bộ đề 5: Khu Vườn Trái Cây Đầy Màu Sắc - Phần 2",
+  "description": "Tiếp tục khám phá thế giới từ vựng trái cây lý thú và bổ ích.",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Mango",
+      "audioLang": "en",
+      "optionA": "Quả dừa 🥥",
+      "optionB": "Quả xoài 🥭",
+      "optionC": "Quả kiwi 🥝",
+      "optionD": "Quả bơ 🥑",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Lemon",
+      "audioLang": "en",
+      "optionA": "Quả chanh 🍋",
+      "optionB": "Quả cà chua 🍅",
+      "optionC": "Quả việt quất 🫐",
+      "optionD": "Quả dưa 🍈",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Value Coconut",
+      "audioLang": "en",
+      "optionA": "Táo xanh 🍏",
+      "optionB": "Quả quýt 🍊",
+      "optionC": "Con khỉ 🐒",
+      "optionD": "Quả dừa 🥥",
+      "correctAnswer": "D"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Kiwi",
+      "audioLang": "en",
+      "optionA": "Quả kiwi 🥝",
+      "optionB": "Hoa hồng 🌹",
+      "optionC": "Hoa hướng dương 🌻",
+      "optionD": "Hoa tulip 🌷",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Avocado",
+      "audioLang": "en",
+      "optionA": "Hoa ly 🪷",
+      "optionB": "Hoa cúc 🌼",
+      "optionC": "Quả bơ 🥑",
+      "optionD": "Hoa sen 🪷",
+      "correctAnswer": "C"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Tomato",
+      "audioLang": "en",
+      "optionA": "Hoa lan 🌸",
+      "optionB": "Hoa anh đào 🌸",
+      "optionC": "Hoa dâm bụt 🌺",
+      "optionD": "Quả cà chua 🍅",
+      "correctAnswer": "D"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Blueberry",
+      "audioLang": "en",
+      "optionA": "Quả việt quất 🫐",
+      "optionB": "Hoa nở 🌼",
+      "optionC": "Quả táo 🍎",
+      "optionD": "Quả chuối 🍌",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Melon",
+      "audioLang": "en",
+      "optionA": "Quả cam 🍊",
+      "optionB": "Quả dưa 🍈",
+      "optionC": "Quả nho 🍇",
+      "optionD": "Quả dưa hấu 🍉",
+      "correctAnswer": "B"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Green Apple",
+      "audioLang": "en",
+      "optionA": "Táo xanh 🍏",
+      "optionB": "Quả dâu tây 🍓",
+      "optionC": "Quả lê 🍐",
+      "optionD": "Quả đào 🍑",
+      "correctAnswer": "A"
+    },
+    {
+      "type": "AUDIO_CHOICE",
+      "content": "Nghe và chọn từ đúng:",
+      "audioText": "Tangerine",
+      "audioLang": "en",
+      "optionA": "Quả anh đào 🍒",
+      "optionB": "Quả dứa 🍍",
+      "optionC": "Quả quýt 🍊",
+      "optionD": "Quả xoài 🥭",
+      "correctAnswer": "C"
+    }
+  ]
+}
