@@ -10,7 +10,8 @@
       "class2",
       "class3",
       "class4"
-    ]
+    ],
+    "password": "$2b$10$26Fko95D/qYLc106wjCskOH6ai64cLAQxiZk2Iau9BwrcJQdy9q5C"
   },
   "giaovientest2": {
     "role": "TEACHER",
