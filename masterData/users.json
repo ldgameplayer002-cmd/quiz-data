@@ -26,7 +26,10 @@
     "grades": [
       "class2"
     ],
-    "password": "$2b$10$0uc/WyuRtYuqsbgyFWW6gOAU48uX5dIDpaVjdpxWiUHuv8nHNsliW"
+    "password": "$2b$10$0uc/WyuRtYuqsbgyFWW6gOAU48uX5dIDpaVjdpxWiUHuv8nHNsliW",
+    "displayName": "Giáo viên test 2",
+    "viewableAuthors": [],
+    "region": "hanoi2"
   },
   "admin": {
     "role": "ADMIN",
