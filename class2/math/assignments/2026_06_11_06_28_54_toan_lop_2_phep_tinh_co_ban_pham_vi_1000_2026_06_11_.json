@@ -1,0 +1,107 @@
+{
+  "title": "Toán Lớp 2 - Phép Tính Cơ Bản Phạm Vi 1000 (2026-06-11)",
+  "description": "Luyện tập thuần thục kỹ năng cộng, trừ, nhân, chia 2 chữ số trong phạm vi 1000.",
+  "rewardPoints": 30,
+  "questions": [
+    {
+      "type": "INPUT_NUMBER",
+      "content": "45 + 32 = ?",
+      "correctAnswer": "77"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "89 - 45 = ?",
+      "correctAnswer": "44"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "12 x 4 = ?",
+      "correctAnswer": "48"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "45 : 5 = ?",
+      "correctAnswer": "9"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "150 + 230 = ?",
+      "correctAnswer": "380"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "560 - 120 = ?",
+      "correctAnswer": "440"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "25 x 3 = ?",
+      "correctAnswer": "75"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "72 : 8 = ?",
+      "correctAnswer": "9"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "99 + 101 = ?",
+      "correctAnswer": "200"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "850 - 450 = ?",
+      "correctAnswer": "400"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "67 + 28 = ?",
+      "correctAnswer": "95"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "92 - 36 = ?",
+      "correctAnswer": "56"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "15 x 5 = ?",
+      "correctAnswer": "75"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "48 : 6 = ?",
+      "correctAnswer": "8"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "340 + 190 = ?",
+      "correctAnswer": "530"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "710 - 250 = ?",
+      "correctAnswer": "460"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "18 x 3 = ?",
+      "correctAnswer": "54"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "63 : 7 = ?",
+      "correctAnswer": "9"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "405 + 85 = ?",
+      "correctAnswer": "490"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "900 - 320 = ?",
+      "correctAnswer": "580"
+    }
+  ]
+}
