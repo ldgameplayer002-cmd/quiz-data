@@ -22,7 +22,8 @@
     ],
     "grades": [
       "class2"
-    ]
+    ],
+    "password": "$2b$10$0uc/WyuRtYuqsbgyFWW6gOAU48uX5dIDpaVjdpxWiUHuv8nHNsliW"
   },
   "admin": {
     "role": "ADMIN",
