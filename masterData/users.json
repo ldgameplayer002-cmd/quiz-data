@@ -68,5 +68,21 @@
     "viewableAuthors": [],
     "region": "hanoi2",
     "password": "$2b$10$cLPOesqxca9RMtepT/EaE.nkVIKiefShLNTQpaRcqI1ptZu722KDy"
+  },
+  "thuongtv": {
+    "role": "ADMIN",
+    "displayName": "Trần Văn Thưởng",
+    "status": "active",
+    "subjects": [
+      "ALL"
+    ],
+    "grades": [
+      "ALL"
+    ],
+    "viewableAuthors": [
+      "ALL"
+    ],
+    "region": "ALL",
+    "password": "$2b$10$JDqAh9IUzLBhnN9wW2FFJeekwe8Zx0iXnzOxg/nMeWwrD/T4Yshry"
   }
 }
