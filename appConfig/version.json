@@ -1,7 +1,8 @@
 {
-  "release": 1,
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.1",
+  "release": 2,
+  "latestVersionCode": 2,
+  "latestVersionName": "2.0.0",
   "url": "24h.com.vn",
-  "description": "teststss"
+  "description": "teststss",
+  "forceUpdate": true
 }
