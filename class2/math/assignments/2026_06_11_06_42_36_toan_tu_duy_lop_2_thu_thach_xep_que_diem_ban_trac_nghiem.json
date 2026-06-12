@@ -32,7 +32,7 @@
     },
     {
       "type": "MATCHSTICK_PUZZLE",
-      "content": "Di chuyển 3 que diêm từ số 87 để tạo thành số nhỏ lớn có thể",
+      "content": "Di chuyển 3 que diêm từ số 87 để tạo thành số lớn có thể",
       "optionA": "87",
       "optionB": "MOVE",
       "maxMoves": 3,
@@ -49,5 +49,5 @@
       "matchsticks": []
     }
   ],
-  "version": 4
+  "version": 5
 }
