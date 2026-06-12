@@ -62,7 +62,7 @@
   "giáo viên 4": {
     "role": "TEACHER",
     "displayName": "GIáo viên 4",
-    "status": "active",
+    "status": "inactive",
     "subjects": [],
     "grades": [],
     "viewableAuthors": [],
