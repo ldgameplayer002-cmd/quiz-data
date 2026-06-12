@@ -32,9 +32,9 @@
     },
     {
       "type": "MATCHSTICK_PUZZLE",
-      "content": "Bớt 3 que diêm từ số 87 để tạo thành số nhỏ lớn có thể",
+      "content": "Di chuyển 3 que diêm từ số 87 để tạo thành số nhỏ lớn có thể",
       "optionA": "87",
-      "optionB": "REMOVE",
+      "optionB": "MOVE",
       "maxMoves": 3,
       "correctAnswer": "751",
       "matchsticks": []
@@ -49,5 +49,5 @@
       "matchsticks": []
     }
   ],
-  "version": 3
+  "version": 4
 }
