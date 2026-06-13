@@ -45,9 +45,9 @@
       "optionA": "150",
       "optionB": "MOVE",
       "maxMoves": 3,
-      "correctAnswer": "357",
+      "correctAnswer": "787",
       "matchsticks": []
     }
   ],
-  "version": 5
+  "version": 6
 }
