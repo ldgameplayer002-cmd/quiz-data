@@ -1,0 +1,78 @@
+{
+  "title": "Toán Lớp 2 - Rèn Luyện Tư Duy Sàng Lọc Dữ Liệu",
+  "description": "Bộ bài tập đặc biệt giúp học sinh lớp 2 rèn luyện sự cẩn thận",
+  "rewardPoints": 40,
+  "questions": [
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bố có 15 cái kẹo đỏ , bố cho anh 7 cái kẹo xanh, cho em 3 cái kẹo đỏ. Hỏi bố còn bao nhiêu cái kẹo đỏ?",
+      "correctAnswer": 15
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một dải ruy băng màu đỏ dài 90cm, dải ruy băng màu xanh dài 40cm. Hỏi dải ruy băng màu đỏ dài bao nhiêu dm?",
+      "correctAnswer": 9
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Trên bàn ăn có 12 quả táo, 8 quả cam và quả xoài ít hơn quả táo 3 quả. Hỏi trên bàn số táo nhiều hơn xoài bao nhiêu quả?",
+      "correctAnswer": 7
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mẹ mua 1 tấm vải dài 60cm, sau đó mẹ cắt đi 2dm để may túi. Hỏi phần vải còn lại dài bao nhiêu?",
+      "correctAnswer": 40
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Năm nay anh 12 tuổi, em 7 tuổi. Mẹ mua cho 2 anh em 5 quyển vở. Hỏi 3 năm trước tổng số tuổi của 2 anh em bao nhiêu tuổi?",
+      "correctAnswer": 13
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Lớp 2A có 20 học sinh nam và 15 học sinh nữ. Cô giáo phát cho mỗi bạn nam 1 chiếc bút chì, bạn nữ 2 chiếc bút chì. Hỏi số bút chì cô phát cho cả lớp là bao nhiêu?",
+      "correctAnswer": 50
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Cây thước kẻ của Nam dài 20cm, cục tẩy dài 4cm, bút chì dài 15cm. Hỏi cây thước kẻ và cục tẩy dài hơn cây bút chì bao nhiêu cm?",
+      "correctAnswer": 9
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một bến xe có 25 chiếc ô tô. Lúc sau có 5 chiếc rời đi và 7 chiếc khác chạy vào bến. Hỏi lúc này trong bến có bao nhiêu chiếc ô tô?",
+      "correctAnswer": 27
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bố năm nay 36 tuổi. Số tuổi của bố gấp 4 lần số tuổi của em. Hỏi năm nay em bao nhiêu tuổi",
+      "correctAnswer": 9
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Cuộn dây điện dài 100cm, bố dùng hết 40cm để sửa quạt máy. Hỏi cuộn dây điện lúc đầu dài bao nhiêu mét (m)?",
+      "correctAnswer": 1
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bà nội nuôi 4 con gà, 2 con vịt và 3 con chó giữ nhà. Hỏi tổng số chân của các con vật là bao nhiêu?",
+      "correctAnswer": 24
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bạn An có 5 tờ tiền mệnh giá 10 nghìn đồng và 1 tờ 20 nghìn đồng. An mua kem hết 15 nghìn đồng. Hỏi bạn An còn tất cả bao nhiêu nghìn đồng?",
+      "correctAnswer": 15
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bể cá nhà Minh có 12 con cá vàng, cá chép ít hơn cá vàng 3 con. Sáng nay Minh thả thêm 5 con cá chép vào bể. Hỏi cá chép nhiều hơn cá vàng bao nhiêu con?",
+      "correctAnswer": 2
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Hôm nay là thứ Năm ngày 18. Chị gái mua cho em 2 quyển truyện tranh. Hỏi hôm qua là ngày bao nhiêu?",
+      "correctAnswer": 17
+    }
+  ],
+  "version": 1
+}
