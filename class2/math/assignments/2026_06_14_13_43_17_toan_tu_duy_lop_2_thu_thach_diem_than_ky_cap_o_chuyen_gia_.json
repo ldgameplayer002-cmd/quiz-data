@@ -1,0 +1,53 @@
+{
+  "title": "Toán Tư Duy Lớp 2 - Thử Thách Diêm Thần Kỳ (Cấp Độ Chuyên Gia)",
+  "description": "Thử thách siêu trí tuệ: Thực hiện các thao tác di chuyển, thêm và bớt nhiều que diêm cùng lúc để tìm ra đáp án xuất sắc nhất.",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 3 que diêm từ số 73 để tạo thành số lớn nhất có thể",
+      "optionA": "73",
+      "optionB": "MOVE",
+      "maxMoves": 3,
+      "correctAnswer": "771",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Thêm 2 que diêm vào số 53 để biến nó thành số lớn nhất",
+      "optionA": "53",
+      "optionB": "ADD",
+      "maxMoves": 2,
+      "correctAnswer": "531",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Bớt đi 3 que diêm từ số 808 để tạo thành số nhỏ nhất có thể",
+      "optionA": "808",
+      "optionB": "REMOVE",
+      "maxMoves": 3,
+      "correctAnswer": "002",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 3 que diêm từ số 508 để tạo thành số lớn nhất ( gợi ý:  có 4 chữ số)",
+      "optionA": "508",
+      "optionB": "MOVE",
+      "maxMoves": 3,
+      "correctAnswer": "9781",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 2 que diêm từ số 99 để biến nó thành số lớn nhất",
+      "optionA": "99",
+      "optionB": "MOVE",
+      "maxMoves": 2,
+      "correctAnswer": "941",
+      "matchsticks": []
+    }
+  ],
+  "version": 1
+}
