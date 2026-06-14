@@ -1,0 +1,133 @@
+{
+  "title": "Bé Vui Học Toán Lớp 2",
+  "description": "Bài tập ôn tập kiến thức toán Lớp 2 bao gồm các phép tính cộng, trừ trong phạm vi 100 và các bảng nhân, chia 2, 5.",
+  "rewardPoints": 30,
+  "questions": [
+    {
+      "type": "INPUT_NUMBER",
+      "content": "45 + 23 = ?",
+      "correctAnswer": "68"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "78 - 35 = ?",
+      "correctAnswer": "43"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "67 + 19 = ?",
+      "correctAnswer": "86"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "92 - 45 = ?",
+      "correctAnswer": "47"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "2 * 6 = ?",
+      "correctAnswer": "12"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "5 * 4 = ?",
+      "correctAnswer": "20"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "14 / 2 = ?",
+      "correctAnswer": "7"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "35 / 5 = ?",
+      "correctAnswer": "7"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "2 * 9 = ?",
+      "correctAnswer": "18"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "5 * 8 = ?",
+      "correctAnswer": "40"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "20 / 2 = ?",
+      "correctAnswer": "10"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "45 / 5 = ?",
+      "correctAnswer": "9"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "56 + 28 = ?",
+      "correctAnswer": "84"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "83 - 36 = ?",
+      "correctAnswer": "47"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "2 * 7 = ?",
+      "correctAnswer": "14"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "5 * 9 = ?",
+      "correctAnswer": "45"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "18 / 2 = ?",
+      "correctAnswer": "9"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "30 / 5 = ?",
+      "correctAnswer": "6"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "72 + 18 = ?",
+      "correctAnswer": "90"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "100 - 45 = ?",
+      "correctAnswer": "55"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "38 + 47 = ?",
+      "correctAnswer": "85"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "65 - 29 = ?",
+      "correctAnswer": "36"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "2 * 8 = ?",
+      "correctAnswer": "16"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "5 * 7 = ?",
+      "correctAnswer": "35"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "50 / 5 = ?",
+      "correctAnswer": "10"
+    }
+  ],
+  "version": 1
+}
