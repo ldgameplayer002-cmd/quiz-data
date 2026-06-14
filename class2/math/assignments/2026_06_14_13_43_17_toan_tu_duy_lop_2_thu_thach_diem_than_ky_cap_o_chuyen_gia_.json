@@ -1,7 +1,7 @@
 {
   "title": "Toán Tư Duy Lớp 2 - Thử Thách Diêm Thần Kỳ (Cấp Độ Chuyên Gia)",
   "description": "Thử thách siêu trí tuệ: Thực hiện các thao tác di chuyển, thêm và bớt nhiều que diêm cùng lúc để tìm ra đáp án xuất sắc nhất.",
-  "rewardPoints": 20,
+  "rewardPoints": 100,
   "questions": [
     {
       "type": "MATCHSTICK_PUZZLE",
@@ -49,5 +49,5 @@
       "matchsticks": []
     }
   ],
-  "version": 1
+  "version": 2
 }
