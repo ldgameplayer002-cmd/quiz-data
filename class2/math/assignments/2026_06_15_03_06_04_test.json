@@ -1,0 +1,13 @@
+{
+  "title": "test",
+  "description": "test",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "INPUT_NUMBER",
+      "content": "1+1",
+      "correctAnswer": "3"
+    }
+  ],
+  "version": 1
+}
