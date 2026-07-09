@@ -1,0 +1,17 @@
+{
+  "title": "Bài tập xem đồng hồ",
+  "description": "Bé hãy chỉnh đồng hồ theo yêu cầu nhé",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 10 giờ 30 phút nhé!",
+      "correctAnswer": "10:30"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 2 giờ 15 phút nhé!",
+      "correctAnswer": "02:15"
+    }
+  ]
+}
