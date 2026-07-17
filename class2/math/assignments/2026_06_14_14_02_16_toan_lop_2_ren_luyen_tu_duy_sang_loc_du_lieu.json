@@ -6,7 +6,7 @@
     {
       "type": "MATH_ARITHMETIC",
       "content": "Bố có 15 cái kẹo đỏ , bố cho anh 7 cái kẹo xanh, cho em 3 cái kẹo đỏ. Hỏi bố còn bao nhiêu cái kẹo đỏ?",
-      "correctAnswer": 15
+      "correctAnswer": 12
     },
     {
       "type": "MATH_ARITHMETIC",
@@ -15,7 +15,7 @@
     },
     {
       "type": "MATH_ARITHMETIC",
-      "content": "Trên bàn ăn có 12 quả táo, 8 quả cam và quả xoài ít hơn quả táo 3 quả. Hỏi trên bàn số táo nhiều hơn xoài bao nhiêu quả?",
+      "content": "Trên bàn ăn có 12 quả táo, 8 quả cam và số quả xoài ít hơn quả cam 3 quả. Hỏi trên bàn số táo nhiều hơn xoài bao nhiêu quả?",
       "correctAnswer": 7
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "type": "MATH_ARITHMETIC",
-      "content": "Bố năm nay 36 tuổi. Số tuổi của bố gấp 4 lần số tuổi của em. Hỏi năm nay em bao nhiêu tuổi",
-      "correctAnswer": 9
+      "content": "Bố năm nay 36 tuổi. Số tuổi của bố gấp 4 lần số tuổi của em. Hỏi năm ngoái em bao nhiêu tuổi",
+      "correctAnswer": 8
     },
     {
       "type": "MATH_ARITHMETIC",
@@ -61,7 +61,7 @@
     {
       "type": "MATH_ARITHMETIC",
       "content": "Bạn An có 5 tờ tiền mệnh giá 10 nghìn đồng và 1 tờ 20 nghìn đồng. An mua kem hết 15 nghìn đồng. Hỏi bạn An còn tất cả bao nhiêu nghìn đồng?",
-      "correctAnswer": 15
+      "correctAnswer": 55
     },
     {
       "type": "MATH_ARITHMETIC",
@@ -74,5 +74,5 @@
       "correctAnswer": 17
     }
   ],
-  "version": 1
+  "version": 2
 }
