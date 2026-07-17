@@ -1,7 +1,7 @@
 {
   "title": "test",
   "description": "test",
-  "rewardPoints": 20,
+  "rewardPoints": 0,
   "questions": [
     {
       "type": "INPUT_NUMBER",
@@ -9,5 +9,5 @@
       "correctAnswer": "3"
     }
   ],
-  "version": 1
+  "version": 2
 }
