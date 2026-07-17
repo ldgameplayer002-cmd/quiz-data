@@ -1,8 +1,8 @@
 {
   "release": 2,
-  "latestVersionCode": 6,
-  "latestVersionName": "2.0.6",
-  "url": "https://github.com/ldgameplayer002-cmd/quiz-data/releases/download/2.0.6/app-release.apk",
-  "description": "Bổ sung UI",
+  "latestVersionCode": 7,
+  "latestVersionName": "2.0.7",
+  "url": "https://github.com/ldgameplayer002-cmd/quiz-data/releases/download/2.0.7/app-debug.apk",
+  "description": "Thêm bài tập xem giờ",
   "forceUpdate": true
 }
