@@ -1,0 +1,71 @@
+{
+  "title": "Bài tập Toán lớp 2: Vui cùng que diêm",
+  "description": "Bộ 7 câu đố di chuyển, thêm hoặc bớt que diêm giúp học sinh rèn luyện tư duy quan sát và nhận biết hình số qua que diêm.",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm để được số lớn nhất",
+      "optionA": "791",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "757",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm trong số này để được một số khác, sao cho số mới lớn nhất và nhỏ hơn số ban đầu",
+      "optionA": "685",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "669",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Thêm 1 que diêm vào số này để được số lớn nhất có thể",
+      "optionA": "126",
+      "optionB": "ADD",
+      "maxMoves": 1,
+      "correctAnswer": "726",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Bớt 2 que diêm khỏi số này để được số nhỏ nhất có 3 chữ số",
+      "optionA": "846",
+      "optionB": "REMOVE",
+      "maxMoves": 2,
+      "correctAnswer": "246",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 2 que diêm để được số lớn nhất có thể",
+      "optionA": "503",
+      "optionB": "MOVE",
+      "maxMoves": 2,
+      "correctAnswer": "987",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Thêm 3 que diêm vào số này để được số lớn nhất có thể",
+      "optionA": "115",
+      "optionB": "ADD",
+      "maxMoves": 3,
+      "correctAnswer": "779",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Bớt 2 que diêm khỏi số này để được số nhỏ nhất có thể",
+      "optionA": "888",
+      "optionB": "REMOVE",
+      "maxMoves": 2,
+      "correctAnswer": "008",
+      "matchsticks": []
+    }
+  ],
+  "version": 1
+}
