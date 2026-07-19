@@ -1,0 +1,48 @@
+{
+  "title": "Toán Lớp 2 - Thử Thách Xem Giờ Kém, Giờ Lẻ",
+  "description": "Bài tập nâng cao giúp các bé lớp 2 làm quen với cách xem giờ lẻ (10 phút, 20 phút) và thực hành chỉnh giờ kém.",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 8 giờ kém 10 phút nhé!",
+      "correctAnswer": "07:50"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 3 giờ 20 phút nhé!",
+      "correctAnswer": "03:20"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 10 giờ kém 15 phút nhé!",
+      "correctAnswer": "09:45"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 2 giờ 10 phút nhé!",
+      "correctAnswer": "02:10"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 5 giờ kém 20 phút nhé!",
+      "correctAnswer": "04:40"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 12 giờ kém 20 phút nhé!",
+      "correctAnswer": "11:40"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 7 giờ 10 phút nhé!",
+      "correctAnswer": "07:10"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 1 giờ kém 5 phút nhé!",
+      "correctAnswer": "12:55"
+    }
+  ],
+  "version": 1
+}
