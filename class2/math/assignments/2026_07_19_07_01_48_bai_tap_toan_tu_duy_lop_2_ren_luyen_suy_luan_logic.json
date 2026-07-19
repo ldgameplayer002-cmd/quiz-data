@@ -1,0 +1,83 @@
+{
+  "title": "Bài tập Toán tư duy lớp 2: Rèn luyện suy luận logic",
+  "description": "Bộ 15 câu hỏi toán có lời văn với độ khó tăng dần, đòi hỏi học sinh phải đọc kỹ đề, suy luận qua nhiều bước để tìm ra đáp án đúng thay vì chỉ tính toán đơn thuần.",
+  "rewardPoints": 20,
+  "questions": [
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Trên bàn ăn có 12 quả táo, 5 quả cam và số quả xoài ít hơn quả cam 3 quả. Hỏi trên bàn số táo nhiều hơn xoài và cam bao nhiêu quả?",
+      "correctAnswer": 5
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Lan có nhiều hơn Hoa 6 cái kẹo. Hoa có 14 cái kẹo. Hỏi nếu Lan cho bớt 3 cái kẹo thì Lan còn lại bao nhiêu cái kẹo?",
+      "correctAnswer": 17
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một rổ có 30 quả trứng. Mẹ lấy ra một nửa số trứng để làm bánh, sau đó lại mua thêm 9 quả nữa. Hỏi trong rổ hiện có bao nhiêu quả trứng?",
+      "correctAnswer": 24
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "An có 25 viên bi. An cho Bình 8 viên, sau đó mẹ cho An thêm 15 viên nữa. Hỏi cuối cùng An có bao nhiêu viên bi?",
+      "correctAnswer": 32
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Trong vườn có 3 hàng cây, mỗi hàng có 9 cây. Người ta chặt bỏ đi 7 cây bị sâu. Hỏi trong vườn còn lại bao nhiêu cây?",
+      "correctAnswer": 20
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bình năm nay 8 tuổi, Bình kém anh trai 5 tuổi. Hỏi 3 năm nữa anh trai của Bình bao nhiêu tuổi?",
+      "correctAnswer": 16
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Cô giáo có 40 quyển vở để thưởng cho học sinh giỏi. Cô đã phát cho 6 bạn, mỗi bạn 4 quyển. Hỏi cô giáo còn lại bao nhiêu quyển vở?",
+      "correctAnswer": 16
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một cửa hàng có 50 chiếc bánh. Buổi sáng bán được 18 chiếc, buổi chiều bán được ít hơn buổi sáng 5 chiếc. Hỏi cửa hàng còn lại bao nhiêu chiếc bánh?",
+      "correctAnswer": 19
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Hai bể cá có tổng cộng 45 con cá. Bể thứ nhất có 27 con cá. Hỏi bể thứ hai có ít hơn bể thứ nhất bao nhiêu con cá?",
+      "correctAnswer": 9
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một đàn gà có 60 con, trong đó có 24 con gà trống, còn lại là gà mái. Hỏi số gà mái nhiều hơn số gà trống bao nhiêu con?",
+      "correctAnswer": 12
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Nam có một số nhãn vở. Nếu Nam cho bạn 9 cái thì Nam còn lại 16 cái. Hỏi lúc đầu Nam có bao nhiêu cái nhãn vở?",
+      "correctAnswer": 25
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một thùng đựng 35 lít nước. Người ta đổ thêm vào thùng 20 lít, sau đó lấy ra dùng hết 28 lít. Hỏi trong thùng còn lại bao nhiêu lít nước?",
+      "correctAnswer": 27
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Ba bạn An, Bình, Chi cùng gấp thuyền giấy. An gấp được 12 chiếc, Bình gấp được nhiều hơn An 5 chiếc, Chi gấp được ít hơn Bình 8 chiếc. Hỏi Chi gấp được bao nhiêu chiếc thuyền?",
+      "correctAnswer": 9
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một quyển truyện dày 48 trang. Hôm qua Lan đọc được 15 trang, hôm nay Lan đọc thêm 13 trang nữa. Hỏi Lan còn phải đọc bao nhiêu trang nữa mới hết quyển truyện?",
+      "correctAnswer": 20
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Đội bóng lớp 2A ghi được 9 bàn thắng ở hiệp một. Sang hiệp hai, đội ghi thêm được số bàn thắng bằng hiệp một nhưng bị trừ đi 2 bàn do lỗi việt vị. Hỏi cả trận đấu đội ghi được bao nhiêu bàn thắng?",
+      "correctAnswer": 16
+    }
+  ],
+  "version": 1
+}
