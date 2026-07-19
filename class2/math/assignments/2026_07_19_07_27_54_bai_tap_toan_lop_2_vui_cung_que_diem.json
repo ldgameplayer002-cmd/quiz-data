@@ -1,7 +1,7 @@
 {
   "title": "Bài tập Toán lớp 2: Vui cùng que diêm",
   "description": "Bộ 7 câu đố di chuyển, thêm hoặc bớt que diêm giúp học sinh rèn luyện tư duy quan sát và nhận biết hình số qua que diêm.",
-  "rewardPoints": 20,
+  "rewardPoints": 70,
   "questions": [
     {
       "type": "MATCHSTICK_PUZZLE",
@@ -67,5 +67,5 @@
       "matchsticks": []
     }
   ],
-  "version": 1
+  "version": 2
 }
