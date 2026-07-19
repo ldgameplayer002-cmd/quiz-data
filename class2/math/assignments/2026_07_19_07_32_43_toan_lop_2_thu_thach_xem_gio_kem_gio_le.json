@@ -1,7 +1,7 @@
 {
   "title": "Toán Lớp 2 - Thử Thách Xem Giờ Kém, Giờ Lẻ",
   "description": "Bài tập nâng cao giúp các bé lớp 2 làm quen với cách xem giờ lẻ (10 phút, 20 phút) và thực hành chỉnh giờ kém.",
-  "rewardPoints": 20,
+  "rewardPoints": 30,
   "questions": [
     {
       "type": "CLOCK_SET",
@@ -44,5 +44,5 @@
       "correctAnswer": "12:55"
     }
   ],
-  "version": 1
+  "version": 2
 }
