@@ -1,7 +1,7 @@
 {
   "title": "Bài tập Toán tư duy lớp 2: Rèn luyện suy luận logic",
   "description": "Bộ 15 câu hỏi toán có lời văn với độ khó tăng dần, đòi hỏi học sinh phải đọc kỹ đề, suy luận qua nhiều bước để tìm ra đáp án đúng thay vì chỉ tính toán đơn thuần.",
-  "rewardPoints": 20,
+  "rewardPoints": 80,
   "questions": [
     {
       "type": "MATH_ARITHMETIC",
@@ -79,5 +79,5 @@
       "correctAnswer": 16
     }
   ],
-  "version": 1
+  "version": 2
 }
