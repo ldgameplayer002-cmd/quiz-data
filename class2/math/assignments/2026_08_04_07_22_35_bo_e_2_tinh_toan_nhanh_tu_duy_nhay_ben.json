@@ -1,0 +1,83 @@
+{
+  "title": "Bộ đề 2: Tính toán Nhanh - Tư duy Nhạy bén",
+  "description": "15 câu hỏi điền số tính toán, cẩn thận đừng để bị lừa bởi thứ tự phép tính nhé!",
+  "rewardPoints": 50,
+  "questions": [
+    {
+      "type": "INPUT_NUMBER",
+      "content": "10 + 10 x 0 = ?",
+      "correctAnswer": "10"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Số liền sau của số lớn nhất có 3 chữ số là số nào?",
+      "correctAnswer": "1000"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Số chẵn nhỏ nhất có 3 chữ số khác nhau là số nào?",
+      "correctAnswer": "102"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "25 x 12 = ?",
+      "correctAnswer": "300"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "500 : 25 = ?",
+      "correctAnswer": "20"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Một ngày có bao nhiêu giờ nếu bạn thức trọn cả đêm?",
+      "correctAnswer": "24"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Thêm 1 vào số chẵn lớn nhất có 2 chữ số sẽ được số nào?",
+      "correctAnswer": "99"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Nếu lấy 1 nửa của 1000 đem chia cho 2 thì được bao nhiêu?",
+      "correctAnswer": "250"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Tổng của hai số là 150. Số thứ nhất là 50. Số thứ hai là bao nhiêu?",
+      "correctAnswer": "100"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "1 + 2 + 3 + 4 + 5 +6 +7 + 8 + 9 + 10 = ?",
+      "correctAnswer": "55"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "1 nửa của số chắn lớn nhất có 1 chữ số, đem cộng thêm 1 là bao nhiêu?",
+      "correctAnswer": "5"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Tích của 2 số là 0. Một số là 999 là bao nhiêu?",
+      "correctAnswer": "0"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Số lớn nhất có 3 chữ số nhưng nhỏ hơn 500 là số nào?",
+      "correctAnswer": "499"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "1 nửa của số nhỏ nhất có 3 chữ số",
+      "correctAnswer": "50"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Số nào khi cộng với chính nó cũng cho kết quả bằng khi nhân với chính nó?",
+      "correctAnswer": "2"
+    }
+  ],
+  "version": 1
+}
