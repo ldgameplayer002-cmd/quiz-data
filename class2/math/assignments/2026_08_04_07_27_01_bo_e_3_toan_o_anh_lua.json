@@ -1,0 +1,83 @@
+{
+  "title": "Bộ đề 3: Toán Đố Đánh Lừa",
+  "description": "15 câu đố chữ thử thách khả năng đọc hiểu. Hãy phân tích kỹ để không rơi vào bẫy!",
+  "rewardPoints": 100,
+  "questions": [
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bố có 15 cái kẹo, bố cho anh 7 cái, cho em 3 cái. Hỏi lúc đầu bố CÓ bao nhiêu cái kẹo?",
+      "correctAnswer": 15
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bố có 15 cái kẹo, bố cho anh 7 cái, cho em 3 cái. Hỏi bố CÒN LẠI bao nhiêu cái kẹo?",
+      "correctAnswer": 5
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một xe buýt đang có 15 hành khách. Đến trạm, 3 hành khách xuống, 5 hành khách lên. Hỏi trên xe lúc này có tất cả bao nhiêu NGƯỜI (tính cả bác tài xế)?",
+      "correctAnswer": 18
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Gia đình Hùng có 5 người con trai. Mỗi người con trai đều có 1 người em gái. Hỏi gia đình Hùng có tất cả bao nhiêu người con?",
+      "correctAnswer": 6
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Trong phòng có 4 góc, mỗi góc có 1 con mèo. Trước mặt mỗi con mèo có 3 con mèo khác. Hỏi trong phòng có bao nhiêu con mèo?",
+      "correctAnswer": 4
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bác nông dân có 17 con cừu. Bỗng dưng có một trận bệnh tật, tất cả, trừ 9 con, đều chết. Hỏi bác nông dân CÒN SỐNG bao nhiêu con cừu?",
+      "correctAnswer": 9
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bạn đang chạy trong một cuộc đua và bạn vừa vượt qua người xếp thứ hai. Bây giờ bạn đang xếp thứ mấy?",
+      "correctAnswer": 2
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mẹ mua 30 quả trứng. Khi đi đường, mẹ làm rơi vỡ mất 10 quả. Về nhà mẹ luộc 5 quả, chiên 5 quả để ăn tối. Hỏi mẹ ĐÃ DÙNG bao nhiêu quả trứng để NẤU ĂN?",
+      "correctAnswer": 10
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Cô giáo có 50 quyển vở. Cô thưởng cho bạn An 15 quyển, thưởng cho bạn Bình 20 quyển. Hỏi cô ĐÃ THƯỞNG tất cả bao nhiêu quyển vở?",
+      "correctAnswer": 35
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mỗi hộp kẹo có 25 viên. Nam mua 4 hộp. Nam bóc ra và ăn hết 1 hộp. Hỏi Nam CÒN LẠI bao nhiêu VIÊN kẹo nguyên?",
+      "correctAnswer": 75
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một khúc gỗ dài 10 mét. Cứ mỗi phút bác thợ mộc cưa được một đoạn dài 1 mét. Hỏi bác mất bao nhiêu phút để cưa xong khúc gỗ đó thành các đoạn 1 mét?",
+      "correctAnswer": 9
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bạn chia 30 cho một nửa (1/2), rồi cộng thêm 10. Kết quả là bao nhiêu?",
+      "correctAnswer": 70
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Nam có 1 tờ tiền mệnh giá 500 nghìn. Nam mua 2 cuốn sách, mỗi cuốn giá 150 nghìn. Nam đưa người bán hàng tờ 500 nghìn. Hỏi người bán hàng phải TRẢ LẠI Nam bao nhiêu nghìn?",
+      "correctAnswer": 200
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Có một đàn vịt: con vịt đi trước 2 con vịt, con vịt đi sau 2 con vịt, con vịt đi giữa 2 con vịt. Hỏi đàn vịt có tất cả bao nhiêu con?",
+      "correctAnswer": 3
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Hiện nay Nam 10 tuổi, anh trai Nam 20 tuổi. Hỏi khi Nam 20 tuổi thì anh trai Nam bao nhiêu tuổi?",
+      "correctAnswer": 30
+    }
+  ],
+  "version": 1
+}
