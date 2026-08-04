@@ -1,0 +1,71 @@
+{
+  "title": "Bộ đề 1: Thử thách Que diêm",
+  "description": "7 câu hỏi tư duy với que diêm. Hãy chú ý yêu cầu thêm, bớt hay di chuyển nhé!",
+  "rewardPoints": 50,
+  "questions": [
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 2 que diêm để được số lớn nhất nhỏ hơn 900",
+      "optionA": "588",
+      "optionB": "MOVE",
+      "maxMoves": 2,
+      "correctAnswer": "899",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Thêm 2 que diêm để được số có 3 chữ số nhỏ nhất ",
+      "optionA": "309",
+      "optionB": "ADD",
+      "maxMoves": 2,
+      "correctAnswer": "388",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Bỏ đi 1 que diêm để được số nhỏ nhất",
+      "optionA": "808",
+      "optionB": "REMOVE",
+      "maxMoves": 1,
+      "correctAnswer": "008",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm để được số nhỏ nhất",
+      "optionA": "381",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "281",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Bỏ đi 2 que diêm để được số lớn nhất",
+      "optionA": "888",
+      "optionB": "REMOVE",
+      "maxMoves": 2,
+      "correctAnswer": "998",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Thêm 2 que diêm để được số lớn nhất",
+      "optionA": "111",
+      "optionB": "ADD",
+      "maxMoves": 2,
+      "correctAnswer": "771",
+      "matchsticks": []
+    },
+    {
+      "type": "MATCHSTICK_PUZZLE",
+      "content": "Di chuyển 1 que diêm để được số nhỏ nhất",
+      "optionA": "999",
+      "optionB": "MOVE",
+      "maxMoves": 1,
+      "correctAnswer": "099",
+      "matchsticks": []
+    }
+  ],
+  "version": 1
+}
