@@ -1,0 +1,83 @@
+{
+  "title": "Bộ đề 4: Thử Tài Xem Đồng Hồ",
+  "description": "15 câu hỏi xem giờ. Chú ý các cách nói giờ hơn, giờ kém, rưỡi để đặt cho đúng nhé!",
+  "rewardPoints": 100,
+  "questions": [
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 7 giờ 50 phút nhé!",
+      "correctAnswer": "07:50"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 8 giờ kém 10 nhé!",
+      "correctAnswer": "07:50"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Chỉnh đồng hồ chỉ đúng 3 giờ chiều nhé!",
+      "correctAnswer": "03:00"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Mẹ bảo con đi ngủ lúc 9 giờ tối. Con hãy chỉnh đồng hồ đúng giờ nhé.",
+      "correctAnswer": "09:00"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Bây giờ đang là 2 giờ chiều. Hãy chỉnh đồng hồ thêm 45 phút nữa.",
+      "correctAnswer": "02:45"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Buổi sáng, con vào lớp lúc 7 giờ rưỡi. Hãy chỉnh đồng hồ nhé.",
+      "correctAnswer": "07:30"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Một phần tư giờ sau 10 giờ sáng là mấy giờ?",
+      "correctAnswer": "10:15"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Chỉnh đồng hồ lúc 12 giờ trưa kém 15 phút.",
+      "correctAnswer": "11:45"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Trời đã khuya, con chỉnh đồng hồ lúc đúng nửa đêm (12 giờ đêm) nhé.",
+      "correctAnswer": "12:00"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Đồng hồ đang chỉ 8 giờ, nếu quay ngược kim phút lại 20 phút thì là mấy giờ?",
+      "correctAnswer": "07:40"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Con hãy chỉnh đồng hồ chỉ 10 giờ kém 25 phút nhé.",
+      "correctAnswer": "09:35"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Hãy chỉnh đồng hồ chỉ 1 giờ 15 phút chiều.",
+      "correctAnswer": "01:15"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Hai rưỡi chiều là mấy giờ? Con chỉnh đồng hồ nhé.",
+      "correctAnswer": "02:30"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Nếu bây giờ là 6 giờ đúng, 90 phút nữa sẽ là mấy giờ?",
+      "correctAnswer": "07:30"
+    },
+    {
+      "type": "CLOCK_SET",
+      "content": "Chỉnh đồng hồ chỉ 5 giờ kém 5 phút.",
+      "correctAnswer": "04:55"
+    }
+  ],
+  "version": 1
+}
