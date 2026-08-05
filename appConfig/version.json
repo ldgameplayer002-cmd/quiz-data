@@ -1,8 +1,8 @@
 {
-  "release": 2,
-  "latestVersionCode": 7,
-  "latestVersionName": "2.0.7",
-  "url": "https://github.com/ldgameplayer002-cmd/quiz-data/releases/download/2.0.7/app-release.apk",
-  "description": "Thêm bài tập xem giờ",
+  "release": 3,
+  "latestVersionCode": 8,
+  "latestVersionName": "3.0.0",
+  "url": "https://github.com/ldgameplayer002-cmd/quiz-data/releases/download/3.0.1/app-release.apk",
+  "description": "Bổ sung chức năng học tiếng anh với AI",
   "forceUpdate": true
 }
