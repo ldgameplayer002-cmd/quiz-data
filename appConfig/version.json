@@ -1,8 +1,8 @@
 {
   "release": 3,
-  "latestVersionCode": 10,
-  "latestVersionName": "3.0.2",
-  "url": "https://github.com/ldgameplayer002-cmd/quiz-data/archive/refs/tags/3.0.2.zip",
-  "description": "Sửa lỗi bắn vịt",
+  "latestVersionCode": 11,
+  "latestVersionName": "3.0.3",
+  "url": "https://github.com/ldgameplayer002-cmd/quiz-data/releases/download/3.0.3/app-release.apk",
+  "description": "sửa lỗi",
   "forceUpdate": true
 }
