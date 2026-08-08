@@ -61,7 +61,7 @@
     {
       "type": "MATH_ARITHMETIC",
       "content": "Bạn chia 30 cho một nửa (1/2), rồi cộng thêm 10. Kết quả là bao nhiêu?",
-      "correctAnswer": 70
+      "correctAnswer": 25
     },
     {
       "type": "MATH_ARITHMETIC",
@@ -79,5 +79,5 @@
       "correctAnswer": 30
     }
   ],
-  "version": 1
+  "version": 2
 }
