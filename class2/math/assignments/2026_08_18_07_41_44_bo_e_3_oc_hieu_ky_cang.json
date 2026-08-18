@@ -1,0 +1,83 @@
+{
+  "title": "Bộ đề 3: Đọc Hiểu Kỹ Càng",
+  "description": "15 câu đố chữ thử thách tư duy phản biện. Câu hỏi đôi khi không nằm ở số liệu mà nằm ở chữ!",
+  "rewardPoints": 100,
+  "questions": [
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mẹ mua 50 quả táo. Mẹ biếu bà 15 quả, biếu ông 15 quả. Hỏi mẹ ĐÃ BIẾU tổng cộng bao nhiêu quả táo?",
+      "correctAnswer": 30
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Trong lớp có 30 học sinh. Hôm nay có 3 bạn nghỉ ốm, 2 bạn xin nghỉ đi thi. Hỏi hôm nay có bao nhiêu bạn ĐI HỌC?",
+      "correctAnswer": 25
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Nhà Lan nuôi 10 con gà. Hôm qua mua thêm 5 con, nhưng có 2 con bị ốm nên bố nhốt riêng. Hỏi nhà Lan CÓ tất cả bao nhiêu con gà?",
+      "correctAnswer": 15
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một đoàn tàu đang có 12 toa. Tại ga, cắt đi 2 toa cuối và nối thêm 4 toa khác. Hỏi đoàn tàu mới có bao nhiêu toa?",
+      "correctAnswer": 14
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một cái kẹo giá 2 nghìn, một cái bánh giá 5 nghìn. Nam mua 3 kẹo và 2 bánh. Nam đưa cô bán hàng 20 nghìn. Hỏi CÔ BÁN HÀNG đã nhận của Nam bao nhiêu tiền?",
+      "correctAnswer": 20
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Ba con mèo bắt ba con chuột mất đúng ba phút. Hỏi 10 con mèo bắt 10 con chuột thì mất bao nhiêu phút?",
+      "correctAnswer": 3
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Bạn có 10 cái bánh. Bạn cho An 1 nửa, rồi xin Bình 3 cái. Hỏi An có bao nhiêu cái bánh?",
+      "correctAnswer": 5
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Trong chuồng có 12 con bò. Tất cả đều là bò tót, trừ 2 con. Hỏi có bao nhiêu con bò không phải bò tót?",
+      "correctAnswer": 2
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Ông của Nam năm nay 60 tuổi, hơn bố Nam 25 tuổi. Bố Nam hơn Nam 25 tuổi. Hỏi Nam bao nhiêu tuổi?",
+      "correctAnswer": 10
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Mỗi hộp bút có 12 chiếc. Cô giáo mua 5 hộp để chia cho 30 học sinh, mỗi bạn 1 chiếc. Hỏi cô ĐÃ CHIA bao nhiêu chiếc bút?",
+      "correctAnswer": 30
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một sợi dây dài 20m. Cắt làm đôi, rồi lại lấy 1 nửa đó cắt làm đôi nữa. Hỏi phần ngắn nhất dài bao nhiêu mét?",
+      "correctAnswer": 5
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Năm nay mẹ 35 tuổi, con 5 tuổi. Hỏi 5 năm sau, tổng số tuổi của hai mẹ con là bao nhiêu?",
+      "correctAnswer": 50
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Trang trại có 20 con heo. Sáng nay sinh ra 10 con heo con. Chiều nay bán đi 5 con heo lớn. Hỏi trang trại ĐÃ BÁN bao nhiêu con heo?",
+      "correctAnswer": 5
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "An có 25 viên bi, Bình có nhiều hơn An 10 viên. Cường có ít hơn Bình 5 viên. Hỏi Cường có bao nhiêu viên bi?",
+      "correctAnswer": 30
+    },
+    {
+      "type": "MATH_ARITHMETIC",
+      "content": "Một cái ao bèo cứ sau 1 ngày thì nở gấp đôi. Tròn 10 ngày thì bèo nở kín ao. Hỏi bèo nở nửa ao vào ngày thứ mấy?",
+      "correctAnswer": 9
+    }
+  ],
+  "version": 1
+}
