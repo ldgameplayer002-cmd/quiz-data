@@ -1,0 +1,83 @@
+{
+  "title": "Bộ đề 2: Tính Toán Tốc Độ",
+  "description": "15 câu hỏi điền số không chỉ cần tính đúng mà phải tư duy nhạy bén. Coi chừng bị bẫy nhé!",
+  "rewardPoints": 100,
+  "questions": [
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Nếu bạn gấp đôi số lớn nhất có 2 chữ số rồi trừ đi số nhỏ nhất có 3 chữ số, kết quả là?",
+      "correctAnswer": "98"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "25 x 40 = ?",
+      "correctAnswer": "1000"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Số 0 đem chia cho 999 rồi cộng với 1 thì bằng bao nhiêu?",
+      "correctAnswer": "1"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Một nửa của 250 đem nhân với 4 bằng bao nhiêu?",
+      "correctAnswer": "500"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Cộng 3 số giống hệt nhau lại ta được 90. Nếu nhân số đó với 10 ta được bao nhiêu?",
+      "correctAnswer": "300"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Một ngày có 24 giờ. Vậy hai ngày rưỡi có bao nhiêu giờ?",
+      "correctAnswer": "60"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Số chẵn nhỏ nhất lớn hơn 999 là số nào?",
+      "correctAnswer": "1000"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Tính nhẩm: 45 x 11 = ?",
+      "correctAnswer": "495"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Tổng của số lớn nhất có 1 chữ số và số nhỏ nhất có 2 chữ số là?",
+      "correctAnswer": "19"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Có 100 con chim đậu trên cành. Bay đi 1 nửa, sau đó lại bay về thêm 10 con. Hỏi lúc này có bao nhiêu con?",
+      "correctAnswer": "60"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "100 - (20 + 30) x 2 = ?",
+      "correctAnswer": "0"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "15 x 15 = ?",
+      "correctAnswer": "225"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Số tự nhiên nhỏ nhất có 3 chữ số mà các chữ số đều giống nhau là?",
+      "correctAnswer": "111"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Hai chục nhân với ba chục thì bằng bao nhiêu?",
+      "correctAnswer": "600"
+    },
+    {
+      "type": "INPUT_NUMBER",
+      "content": "Số tự nhiên nào khi cộng với 5, nhân với 5, trừ đi 5, rồi chia cho 5 thì lại bằng chính nó?",
+      "correctAnswer": "1"
+    }
+  ],
+  "version": 1
+}
